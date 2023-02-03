@@ -1,0 +1,300 @@
+GROUP ID,KETERANGAN,PROPINSI
+9,PERCOBAAN,
+90,NASIONAL (GABUNGAN KEBENCANAAN),
+91,NASIONAL (UMUM),
+100,BNPB Nasional,
+111,Penanggulanan Bencana Daerah - Aceh,Aceh
+112,Penanggulanan Bencana Daerah - Sumatera Utara,Sumatera Utara
+113,Penanggulanan Bencana Daerah - Sumatera Barat,Sumatera Barat
+114,Penanggulanan Bencana Daerah - Riau,Riau
+115,Penanggulanan Bencana Daerah - Jambi,Jambi
+116,Penanggulanan Bencana Daerah - Sumatera Selatan,Sumatera Selatan
+117,Penanggulanan Bencana Daerah - Bengkulu,Bengkulu
+118,Penanggulanan Bencana Daerah - Lampung,Lampung
+119,Penanggulanan Bencana Daerah - Maluku,Bangka Belitung
+121,Penanggulanan Bencana Daerah - Papua,Kepulauan Riau
+131,Penanggulanan Bencana Daerah - Bangka Belitung,DKI Jakarta
+132,Penanggulanan Bencana Daerah - Kepulauan Riau,Jawa Barat
+133,Penanggulanan Bencana Daerah - DKI Jakarta,Jawa Tengah
+134,Penanggulanan Bencana Daerah - Jawa Barat,DI Yogyakarta
+135,Penanggulanan Bencana Daerah - Jawa Tengah,Jawa Timur
+136,Penanggulanan Bencana Daerah - Sulawesi Barat,Banten
+151,Penanggulanan Bencana Daerah - DI Yogyakarta,Bali
+152,Penanggulanan Bencana Daerah - Jawa Timur,Nusa Tenggara Barat
+153,Penanggulanan Bencana Daerah - Banten,Nusa Tenggara Timur
+161,Penanggulanan Bencana Daerah - Kalimantan Tengah,Kalimantan Barat
+162,Penanggulanan Bencana Daerah - Kalimantan Barat,Kalimantan Tengah
+163,Penanggulanan Bencana Daerah - Nusa Tenggara Timur,Kalimantan Selatan
+164,Penanggulanan Bencana Daerah - Nusa Tenggara Barat,Kalimantan Timur
+165,Penanggulanan Bencana Daerah - Bali,Kalimantan Utara
+171,Penanggulanan Bencana Daerah - Kalimantan Selatan,Sulawesi Utara
+172,Penanggulanan Bencana Daerah - Kalimantan Timur,Sulawesi Tengah
+173,Penanggulanan Bencana Daerah - Kalimantan Utara,Sulawesi Selatan
+174,Penanggulanan Bencana Daerah - Sulawesi Utara,Sulawesi Tenggara
+175,Penanggulanan Bencana Daerah - Maluku Utara,Gorontalo
+176,Penanggulanan Bencana Daerah - Papua Barat,Sulawesi Barat
+181,Penanggulanan Bencana Daerah - Sulawesi Tengah,Maluku
+182,Penanggulanan Bencana Daerah - Sulawesi Tenggara,Maluku Utara
+191,Penanggulanan Bencana Daerah - Sulawesi Selatan,Papua
+192,Penanggulanan Bencana Daerah - Gorontalo,Papua Barat
+200,JZ00-RAPI NASIONAL,
+201,JZ01-RAPI Daerah 01 Aceh,Aceh
+202,JZ02-RAPI Daerah 02 Sumatera Utara,Sumatera Utara
+203,JZ03-RAPI Daerah 03 Sumatera Barat,Sumatera Barat
+204,JZ04-RAPI Daerah 04 Riau,Riau
+205,JZ05-RAPI Daerah 05 Jambi,Jambi
+206,JZ06-RAPI Daerah 06 Sumatera Selatan,Sumatera Selatan
+207,JZ07-RAPI Daerah 07 Bengkulu,Bengkulu
+208,JZ08-RAPI Daerah 08 Lampung,Lampung
+231,JZ31-RAPI Daerah 31 Bangka Belitung,Bangka Belitung
+233,JZ33-RAPI Daerah 33 Kepulauan Riau,Kepulauan Riau
+209,JZ09-RAPI Daerah 09 DKI Jakarta,DKI Jakarta
+210,JZ10-RAPI Daerah 10 Jawa Barat,Jawa Barat
+211,JZ11-RAPI Daerah 11 Jawa Tengah,Jawa Tengah
+212,JZ12-RAPI Daerah 12 Daerah Istimewa Yogyakarta,DI Yogyakarta
+213,JZ13-RAPI Daerah 13 Jawa Timur,Jawa Timur
+230,JZ30-RAPI Daerah 30 Banten,Banten
+214,JZ14-RAPI Daerah 14 Bali,Bali
+215,JZ15-RAPI Daerah 15 Nusa Tenggara Barat,Nusa Tenggara Barat
+216,JZ16-RAPI Daerah 16 Nusa Tenggara Timur,Nusa Tenggara Timur
+221,JZ21-RAPI Daerah 21 Kalimantan Barat,Kalimantan Barat
+220,JZ20-RAPI Daerah 20 Kalimantan Tengah,Kalimantan Tengah
+219,JZ19-RAPI Daerah 19 Kalimantan Selatan,Kalimantan Selatan
+218,JZ18-RAPI Daerah 18 Kalimantan Timur,Kalimantan Timur
+217,JZ17-RAPI Daerah 17 Kalimantan Utara,Kalimantan Utara
+222,JZ22-RAPI Daerah 22 Sulawesi Utara,Sulawesi Utara
+223,JZ23-RAPI Daerah 23 Sulawesi Tengah,Sulawesi Tengah
+224,JZ24-RAPI Daerah 24 Sulawesi Selatan,Sulawesi Selatan
+225,JZ25-RAPI Daerah 25 Sulawesi Tenggara,Sulawesi Tenggara
+232,JZ32-RAPI Daerah 32 Gorontalo,Gorontalo
+234,JZ34-RAPI Daerah 34 Sulawesi Barat,Sulawesi Barat
+226,JZ26-RAPI Daerah 26 Maluku,Maluku
+228,JZ28-RAPI Daerah 28 Maluku Utara,Maluku Utara
+227,JZ27-RAPI Daerah 27 Papua,Papua
+229,JZ29-RAPI Daerah 29 Papua Barat,Papua Barat
+300,KEMENKES,
+311,Dinas Kesehatan Daerah Aceh,Aceh
+312,Dinas Kesehatan Daerah Sumatera Utara,Sumatera Utara
+313,Dinas Kesehatan Daerah Sumatera Barat,Sumatera Barat
+314,Dinas Kesehatan Daerah Riau,Riau
+315,Dinas Kesehatan Daerah Jambi,Jambi
+316,Dinas Kesehatan Daerah Sumatera Selatan,Sumatera Selatan
+317,Dinas Kesehatan Daerah Bengkulu,Bengkulu
+318,Dinas Kesehatan Daerah Lampung,Lampung
+319,Dinas Kesehatan Daerah Bangka Belitung,Bangka Belitung
+321,Dinas Kesehatan Daerah Kepulauan Riau,Kepulauan Riau
+331,Dinas Kesehatan Daerah DKI Jakarta,DKI Jakarta
+332,Dinas Kesehatan Daerah Jawa Barat,Jawa Barat
+333,Dinas Kesehatan Daerah Jawa Tengah,Jawa Tengah
+334,Dinas Kesehatan Daerah DI Yogyakarta,DI Yogyakarta
+335,Dinas Kesehatan Daerah Jawa Timur,Jawa Timur
+336,Dinas Kesehatan Daerah Banten,Banten
+351,Dinas Kesehatan Daerah Bali,Bali
+352,Dinas Kesehatan Daerah Nusa Tenggara Barat,Nusa Tenggara Barat
+353,Dinas Kesehatan Daerah Nusa Tenggara Timur,Nusa Tenggara Timur
+361,Dinas Kesehatan Daerah Kalimantan Barat,Kalimantan Barat
+362,Dinas Kesehatan Daerah Kalimantan Tengah,Kalimantan Tengah
+363,Dinas Kesehatan Daerah Kalimantan Selatan,Kalimantan Selatan
+364,Dinas Kesehatan Daerah Kalimantan Timur,Kalimantan Timur
+365,Dinas Kesehatan Daerah Kalimantan Utara,Kalimantan Utara
+371,Dinas Kesehatan Daerah Sulawesi Utara,Sulawesi Utara
+372,Dinas Kesehatan Daerah Sulawesi Tengah,Sulawesi Tengah
+373,Dinas Kesehatan Daerah Sulawesi Selatan,Sulawesi Selatan
+374,Dinas Kesehatan Daerah Sulawesi Tenggara,Sulawesi Tenggara
+375,Dinas Kesehatan Daerah Gorontalo,Gorontalo
+376,Dinas Kesehatan Daerah Sulawesi Barat,Sulawesi Barat
+381,Dinas Kesehatan Daerah Maluku,Maluku
+382,Dinas Kesehatan Daerah Maluku Utara,Maluku Utara
+391,Dinas Kesehatan Daerah Papua,Papua
+392,Dinas Kesehatan Daerah Papua Barat,Papua Barat
+400,KEMENSOS,
+411,Dinas Sosial Daerah Aceh,Aceh
+412,Dinas Sosial Daerah Sumatera Utara,Sumatera Utara
+413,Dinas Sosial Daerah Sumatera Barat,Sumatera Barat
+414,Dinas Sosial Daerah Riau,Riau
+415,Dinas Sosial Daerah Jambi,Jambi
+416,Dinas Sosial Daerah Sumatera Selatan,Sumatera Selatan
+417,Dinas Sosial Daerah Bengkulu,Bengkulu
+418,Dinas Sosial Daerah Lampung,Lampung
+419,Dinas Sosial Daerah Bangka Belitung,Bangka Belitung
+421,Dinas Sosial Daerah Kepulauan Riau,Kepulauan Riau
+431,Dinas Sosial Daerah DKI Jakarta,DKI Jakarta
+432,Dinas Sosial Daerah Jawa Barat,Jawa Barat
+433,Dinas Sosial Daerah Jawa Tengah,Jawa Tengah
+434,Dinas Sosial Daerah DI Yogyakarta,DI Yogyakarta
+435,Dinas Sosial Daerah Jawa Timur,Jawa Timur
+436,Dinas Sosial Daerah Banten,Banten
+451,Dinas Sosial Daerah Bali,Bali
+452,Dinas Sosial Daerah Nusa Tenggara Barat,Nusa Tenggara Barat
+453,Dinas Sosial Daerah Nusa Tenggara Timur,Nusa Tenggara Timur
+461,Dinas Sosial Daerah Kalimantan Barat,Kalimantan Barat
+462,Dinas Sosial Daerah Kalimantan Tengah,Kalimantan Tengah
+463,Dinas Sosial Daerah Kalimantan Selatan,Kalimantan Selatan
+464,Dinas Sosial Daerah Kalimantan Timur,Kalimantan Timur
+465,Dinas Sosial Daerah Kalimantan Utara,Kalimantan Utara
+471,Dinas Sosial Daerah Sulawesi Utara,Sulawesi Utara
+472,Dinas Sosial Daerah Sulawesi Tengah,Sulawesi Tengah
+473,Dinas Sosial Daerah Sulawesi Selatan,Sulawesi Selatan
+474,Dinas Sosial Daerah Sulawesi Tenggara,Sulawesi Tenggara
+475,Dinas Sosial Daerah Gorontalo,Gorontalo
+476,Dinas Sosial Daerah Sulawesi Barat,Sulawesi Barat
+481,Dinas Sosial Daerah Maluku,Maluku
+482,Dinas Sosial Daerah Maluku Utara,Maluku Utara
+491,Dinas Sosial Daerah Papua,Papua
+492,Dinas Sosial Daerah Papua Barat,Papua Barat
+500,ORARI Nasional,
+511,ORARI Daerah Aceh,Aceh
+512,ORARI Daerah Sumatera Utara,Sumatera Utara
+513,ORARI Daerah Sumatera Barat,Sumatera Barat
+514,ORARI Daerah Riau,Riau
+515,ORARI Daerah Jambi,Jambi
+516,ORARI Daerah Sumatera Selatan,Sumatera Selatan
+517,ORARI Daerah Bengkulu,Bengkulu
+518,ORARI Daerah Lampung,Lampung
+519,ORARI Daerah Bangka Belitung,Bangka Belitung
+521,ORARI Daerah Kepulauan Riau,Kepulauan Riau
+531,ORARI Daerah DKI Jakarta,DKI Jakarta
+532,ORARI Daerah Jawa Barat,Jawa Barat
+533,ORARI Daerah Jawa Tengah,Jawa Tengah
+534,ORARI Daerah DI Yogyakarta,DI Yogyakarta
+535,ORARI Daerah Jawa Timur,Jawa Timur
+536,ORARI Daerah Banten,Banten
+551,ORARI Daerah Bali,Bali
+552,ORARI Daerah Nusa Tenggara Barat,Nusa Tenggara Barat
+553,ORARI Daerah Nusa Tenggara Timur,Nusa Tenggara Timur
+561,ORARI Daerah Kalimantan Barat,Kalimantan Barat
+562,ORARI Daerah Kalimantan Tengah,Kalimantan Tengah
+563,ORARI Daerah Kalimantan Selatan,Kalimantan Selatan
+564,ORARI Daerah Kalimantan Timur,Kalimantan Timur
+565,ORARI Daerah Kalimantan Utara,Kalimantan Utara
+571,ORARI Daerah Sulawesi Utara,Sulawesi Utara
+572,ORARI Daerah Sulawesi Tengah,Sulawesi Tengah
+573,ORARI Daerah Sulawesi Selatan,Sulawesi Selatan
+574,ORARI Daerah Sulawesi Tenggara,Sulawesi Tenggara
+575,ORARI Daerah Gorontalo,Gorontalo
+576,ORARI Daerah Sulawesi Barat,Sulawesi Barat
+581,ORARI Daerah Maluku,Maluku
+582,ORARI Daerah Maluku Utara,Maluku Utara
+591,ORARI Daerah Papua,Papua
+592,ORARI Daerah Papua Barat,Papua Barat
+600,POLRI,
+611,Polisi Daerah Aceh,Aceh
+612,Polisi Daerah Sumatera Utara,Sumatera Utara
+613,Polisi Daerah Sumatera Barat,Sumatera Barat
+614,Polisi Daerah Riau,Riau
+615,Polisi Daerah Jambi,Jambi
+616,Polisi Daerah Sumatera Selatan,Sumatera Selatan
+617,Polisi Daerah Bengkulu,Bengkulu
+618,Polisi Daerah Lampung,Lampung
+619,Polisi Daerah Bangka Belitung,Bangka Belitung
+621,Polisi Daerah Kepulauan Riau,Kepulauan Riau
+631,Polisi Daerah DKI Jakarta,DKI Jakarta
+632,Polisi Daerah Jawa Barat,Jawa Barat
+633,Polisi Daerah Jawa Tengah,Jawa Tengah
+634,Polisi Daerah DI Yogyakarta,DI Yogyakarta
+635,Polisi Daerah Jawa Timur,Jawa Timur
+636,Polisi Daerah Banten,Banten
+651,Polisi Daerah Bali,Bali
+652,Polisi Daerah Nusa Tenggara Barat,Nusa Tenggara Barat
+653,Polisi Daerah Nusa Tenggara Timur,Nusa Tenggara Timur
+661,Polisi Daerah Kalimantan Barat,Kalimantan Barat
+662,Polisi Daerah Kalimantan Tengah,Kalimantan Tengah
+663,Polisi Daerah Kalimantan Selatan,Kalimantan Selatan
+664,Polisi Daerah Kalimantan Timur,Kalimantan Timur
+665,Polisi Daerah Kalimantan Utara,Kalimantan Utara
+671,Polisi Daerah Sulawesi Utara,Sulawesi Utara
+672,Polisi Daerah Sulawesi Tengah,Sulawesi Tengah
+673,Polisi Daerah Sulawesi Selatan,Sulawesi Selatan
+674,Polisi Daerah Sulawesi Tenggara,Sulawesi Tenggara
+675,Polisi Daerah Gorontalo,Gorontalo
+676,Polisi Daerah Sulawesi Barat,Sulawesi Barat
+681,Polisi Daerah Maluku,Maluku
+682,Polisi Daerah Maluku Utara,Maluku Utara
+691,Polisi Daerah Papua,Papua
+692,Polisi Daerah Papua Barat,Papua Barat
+700,KEMENKOMINFO,
+711,Dinas KOMINFO Daerah Aceh,Aceh
+712,Dinas KOMINFO Daerah Sumatera Utara,Sumatera Utara
+713,Dinas KOMINFO Daerah Sumatera Barat,Sumatera Barat
+714,Dinas KOMINFO Daerah Riau,Riau
+715,Dinas KOMINFO Daerah Jambi,Jambi
+716,Dinas KOMINFO Daerah Sumatera Selatan,Sumatera Selatan
+717,Dinas KOMINFO Daerah Bengkulu,Bengkulu
+718,Dinas KOMINFO Daerah Lampung,Lampung
+719,Dinas KOMINFO Daerah Bangka Belitung,Bangka Belitung
+721,Dinas KOMINFO Daerah Kepulauan Riau,Kepulauan Riau
+731,Dinas KOMINFO Daerah DKI Jakarta,DKI Jakarta
+732,Dinas KOMINFO Daerah Jawa Barat,Jawa Barat
+733,Dinas KOMINFO Daerah Jawa Tengah,Jawa Tengah
+734,Dinas KOMINFO Daerah DI Yogyakarta,DI Yogyakarta
+735,Dinas KOMINFO Daerah Jawa Timur,Jawa Timur
+736,Dinas KOMINFO Daerah Banten,Banten
+751,Dinas KOMINFO Daerah Bali,Bali
+752,Dinas KOMINFO Daerah Nusa Tenggara Barat,Nusa Tenggara Barat
+753,Dinas KOMINFO Daerah Nusa Tenggara Timur,Nusa Tenggara Timur
+761,Dinas KOMINFO Daerah Kalimantan Barat,Kalimantan Barat
+762,Dinas KOMINFO Daerah Kalimantan Tengah,Kalimantan Tengah
+763,Dinas KOMINFO Daerah Kalimantan Selatan,Kalimantan Selatan
+764,Dinas KOMINFO Daerah Kalimantan Timur,Kalimantan Timur
+765,Dinas KOMINFO Daerah Kalimantan Utara,Kalimantan Utara
+771,Dinas KOMINFO Daerah Sulawesi Utara,Sulawesi Utara
+772,Dinas KOMINFO Daerah Sulawesi Tengah,Sulawesi Tengah
+773,Dinas KOMINFO Daerah Sulawesi Selatan,Sulawesi Selatan
+774,Dinas KOMINFO Daerah Sulawesi Tenggara,Sulawesi Tenggara
+775,Dinas KOMINFO Daerah Gorontalo,Gorontalo
+776,Dinas KOMINFO Daerah Sulawesi Barat,Sulawesi Barat
+781,Dinas KOMINFO Daerah Maluku,Maluku
+782,Dinas KOMINFO Daerah Maluku Utara,Maluku Utara
+791,Dinas KOMINFO Daerah Papua,Papua
+792,Dinas KOMINFO Daerah Papua Barat,Papua Barat
+800,PEMERINTAH REPUBLIK INDONESIA,
+811,Pemerintah Daerah Aceh,Aceh
+812,Pemerintah Daerah Sumatera Utara,Sumatera Utara
+813,Pemerintah Daerah Sumatera Barat,Sumatera Barat
+814,Pemerintah Daerah Riau,Riau
+815,Pemerintah Daerah Jambi,Jambi
+816,Pemerintah Daerah Sumatera Selatan,Sumatera Selatan
+817,Pemerintah Daerah Bengkulu,Bengkulu
+818,Pemerintah Daerah Lampung,Lampung
+819,Pemerintah Daerah Bangka Belitung,Bangka Belitung
+821,Pemerintah Daerah Kepulauan Riau,Kepulauan Riau
+831,Pemerintah Daerah DKI Jakarta,DKI Jakarta
+832,Pemerintah Daerah Jawa Barat,Jawa Barat
+833,Pemerintah Daerah Jawa Tengah,Jawa Tengah
+834,Pemerintah Daerah DI Yogyakarta,DI Yogyakarta
+835,Pemerintah Daerah Jawa Timur,Jawa Timur
+836,Pemerintah Daerah Banten,Banten
+851,Pemerintah Daerah Bali,Bali
+852,Pemerintah Daerah Nusa Tenggara Barat,Nusa Tenggara Barat
+853,Pemerintah Daerah Nusa Tenggara Timur,Nusa Tenggara Timur
+861,Pemerintah Daerah Kalimantan Barat,Kalimantan Barat
+862,Pemerintah Daerah Kalimantan Tengah,Kalimantan Tengah
+863,Pemerintah Daerah Kalimantan Selatan,Kalimantan Selatan
+864,Pemerintah Daerah Kalimantan Timur,Kalimantan Timur
+865,Pemerintah Daerah Kalimantan Utara,Kalimantan Utara
+871,Pemerintah Daerah Sulawesi Utara,Sulawesi Utara
+872,Pemerintah Daerah Sulawesi Tengah,Sulawesi Tengah
+873,Pemerintah Daerah Sulawesi Selatan,Sulawesi Selatan
+874,Pemerintah Daerah Sulawesi Tenggara,Sulawesi Tenggara
+875,Pemerintah Daerah Gorontalo,Gorontalo
+876,Pemerintah Daerah Sulawesi Barat,Sulawesi Barat
+881,Pemerintah Daerah Maluku,Maluku
+882,Pemerintah Daerah Maluku Utara,Maluku Utara
+891,Pemerintah Daerah Papua,Papua
+892,Pemerintah Daerah Papua Barat,Papua Barat
+900,Tentara Nasional Indonesia,
+911,KODAM Iskandar Muda,Aceh
+912,KODAM I - Bukit Barisan,Sumatera Utara
+916,KODAM II - Sriwijaya,Sumatera Selatan
+931,KODAM Jaya,DKI Jakarta
+932,KODAM III - Siliwangi,Jawa Barat
+933,KODAM IV - Diponegoro,Jawa Tengah
+935,KODAM V - Brawijaya,Jawa Timur
+964,KODAM VI - Mulawarman,Kalimantan Timur
+962,KODAM XII - Tanjungpura,Kalimantan Tengah
+971,KODAM XIII - Merdeka,Sulawesi Utara
+973,KODAM XIV - Hasanuddin,Sulawesi Selatan
+981,KODAM XVI - Pattimura,Maluku
+951,KODAM IX - Udayana,Bali
+991,KODAM XVII - Cenderawasih,Papua
+992,KODAM XVIII - Kasuari,Papua Barat

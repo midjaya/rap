@@ -1,0 +1,550 @@
+GROUP ID,KETERANGAN,PROPINSI
+600,POLISI RI
+611,POLISI DAERAH  Aceh,Aceh
+61101,POLISI RESORT Kab. Aceh Selatan,Aceh
+61102,POLISI RESORT Kab. Aceh Tenggara,Aceh
+61103,POLISI RESORT Kab. Aceh Timur,Aceh
+61104,POLISI RESORT Kab. Aceh Tengah,Aceh
+61105,POLISI RESORT Kab. Aceh Barat,Aceh
+61106,POLISI RESORT Kab. Aceh Besar,Aceh
+61107,POLISI RESORT Kab. Pidie,Aceh
+61108,POLISI RESORT Kab. Aceh Utara,Aceh
+61109,POLISI RESORT Kab. Simeulue,Aceh
+61110,POLISI RESORT Kab. Aceh Singkil,Aceh
+61111,POLISI RESORT Kab. Bireuen,Aceh
+61112,POLISI RESORT Kab. Aceh Barat Daya,Aceh
+61113,POLISI RESORT Kab. Gayo Lues,Aceh
+61114,POLISI RESORT Kab. Aceh Jaya,Aceh
+61115,POLISI RESORT Kab. Nagan Raya,Aceh
+61116,POLISI RESORT Kab. Aceh Tamiang,Aceh
+61117,POLISI RESORT Kab. Bener Meriah,Aceh
+61118,POLISI RESORT Kab. Pidie Jaya,Aceh
+61171,POLISI RESORT Kota Banda Aceh,Aceh
+61172,POLISI RESORT Kota Sabang,Aceh
+61173,POLISI RESORT Kota Lhokseumawe,Aceh
+61174,POLISI RESORT Kota Langsa,Aceh
+61175,POLISI RESORT Kota Subulussalam,Aceh
+612,POLISI DAERAH  SUMUT,Sumatera Utara
+61201,POLISI RESORT Kab. Tapanuli Tengah,Sumatera Utara
+61202,POLISI RESORT Kab. Tapanuli Utara,Sumatera Utara
+61203,POLISI RESORT Kab. Tapanuli Selatan,Sumatera Utara
+61204,POLISI RESORT Kab. Nias,Sumatera Utara
+61205,POLISI RESORT Kab. Langkat,Sumatera Utara
+61206,POLISI RESORT Kab. Karo,Sumatera Utara
+61207,POLISI RESORT Kab. Deli Serdang,Sumatera Utara
+61208,POLISI RESORT Kab. Simalungun,Sumatera Utara
+61209,POLISI RESORT Kab. Asahan,Sumatera Utara
+61210,POLISI RESORT Kab. Labuhanbatu,Sumatera Utara
+61211,POLISI RESORT Kab. Dairi,Sumatera Utara
+61212,POLISI RESORT Kab. Toba Samosir,Sumatera Utara
+61213,POLISI RESORT Kab. Mandailing Natal,Sumatera Utara
+61214,POLISI RESORT Kab. Nias Selatan,Sumatera Utara
+61215,POLISI RESORT Kab. Pakpak Bharat,Sumatera Utara
+61216,POLISI RESORT Kab. Humbang Hasundutan,Sumatera Utara
+61217,POLISI RESORT Kab. Samosir,Sumatera Utara
+61218,POLISI RESORT Kab. Serdang Bedagai,Sumatera Utara
+61219,POLISI RESORT Kab. Batu Bara,Sumatera Utara
+61220,POLISI RESORT Kab. Padang Lawas Utara,Sumatera Utara
+61221,POLISI RESORT Kab. Padang Lawas,Sumatera Utara
+61222,POLISI RESORT Kab. Labuhanbatu Selatan,Sumatera Utara
+61223,POLISI RESORT Kab. Labuhanbatu Utara,Sumatera Utara
+61224,POLISI RESORT Kab. Nias Utara,Sumatera Utara
+61225,POLISI RESORT Kab. Nias Barat,Sumatera Utara
+61271,POLISI RESORT Kota Medan,Sumatera Utara
+61272,POLISI RESORT Kota Pematang Siantar,Sumatera Utara
+61273,POLISI RESORT Kota Sibolga,Sumatera Utara
+61274,POLISI RESORT Kota Tanjung Balai,Sumatera Utara
+61275,POLISI RESORT Kota Binjai,Sumatera Utara
+61276,POLISI RESORT Kota Tebing Tinggi,Sumatera Utara
+61277,POLISI RESORT Kota Padang Sidempuan,Sumatera Utara
+61278,POLISI RESORT Kota Gunung Sitoli,Sumatera Utara
+613,POLISI DAERAH  SUMBAR,Sumatera Barat
+61301,POLISI RESORT Kab. Pesisir Selatan,Sumatera Barat
+61302,POLISI RESORT Kab. Solok,Sumatera Barat
+61303,POLISI RESORT Kab. Sijunjung,Sumatera Barat
+61304,POLISI RESORT Kab. Tanah Datar,Sumatera Barat
+61305,POLISI RESORT Kab. Padang Pariaman,Sumatera Barat
+61306,POLISI RESORT Kab. Agam,Sumatera Barat
+61307,POLISI RESORT Kab. Lima Puluh Kota,Sumatera Barat
+61308,POLISI RESORT Kab. Pasaman,Sumatera Barat
+61309,POLISI RESORT Kab. Kepulauan Mentawai,Sumatera Barat
+61310,POLISI RESORT Kab. Dharmasraya,Sumatera Barat
+61311,POLISI RESORT Kab. Solok Selatan,Sumatera Barat
+61312,POLISI RESORT Kab. Pasaman Barat,Sumatera Barat
+61371,POLISI RESORT Kota Padang,Sumatera Barat
+61372,POLISI RESORT Kota Solok,Sumatera Barat
+61373,POLISI RESORT Kota Sawahlunto,Sumatera Barat
+61374,POLISI RESORT Kota Padangpanjang,Sumatera Barat
+61375,POLISI RESORT Kota Bukittinggi,Sumatera Barat
+61376,POLISI RESORT Kota Payakumbuh,Sumatera Barat
+61377,POLISI RESORT Kota Pariaman,Sumatera Barat
+614,POLISI DAERAH  RIAU,Riau
+61401,POLISI RESORT Kab. Kampar,Riau
+61402,POLISI RESORT Kab. Indragiri Hulu,Riau
+61403,POLISI RESORT Kab. Bengkalis,Riau
+61404,POLISI RESORT Kab. Indragiri Hilir,Riau
+61405,POLISI RESORT Kab. Pelalawan,Riau
+61406,POLISI RESORT Kab. Rokan Hulu,Riau
+61407,POLISI RESORT Kab. Rokan Hilir,Riau
+61408,POLISI RESORT Kab. Siak,Riau
+61409,POLISI RESORT Kab. Kuantan Singingi,Riau
+61410,POLISI RESORT Kab. Kepulauan Meranti,Riau
+61471,POLISI RESORT Kota Pekanbaru,Riau
+61472,POLISI RESORT Kota Dumai,Riau
+615,POLISI DAERAH  JAMBI,Jambi
+61501,POLISI RESORT Kab. Kerinci,Jambi
+61502,POLISI RESORT Kab. Merangin,Jambi
+61503,POLISI RESORT Kab. Sarolangun,Jambi
+61504,POLISI RESORT Kab. Batanghari,Jambi
+61505,POLISI RESORT Kab. Muaro Jambi,Jambi
+61506,POLISI RESORT Kab. Tanjung Jabung Barat,Jambi
+61507,POLISI RESORT Kab. Tanjung Jabung Timur,Jambi
+61508,POLISI RESORT Kab. Bungo,Jambi
+61509,POLISI RESORT Kab. Tebo,Jambi
+61571,POLISI RESORT Kota Jambi,Jambi
+61572,POLISI RESORT Kota Sungai Penuh,Jambi
+616,POLISI DAERAH  SUMSEL,Sumatera Selatan
+61601,POLISI RESORT Kab. Ogan Komering Ulu,Sumatera Selatan
+61602,POLISI RESORT Kab. Ogan Komering Ilir,Sumatera Selatan
+61603,POLISI RESORT Kab. Muara Enim,Sumatera Selatan
+61604,POLISI RESORT Kab. Lahat,Sumatera Selatan
+61605,POLISI RESORT Kab. Musi Rawas,Sumatera Selatan
+61606,POLISI RESORT Kab. Musi Banyuasin,Sumatera Selatan
+61607,POLISI RESORT Kab. Banyuasin,Sumatera Selatan
+61608,POLISI RESORT Kab. Ogan Komering Ulu Timur,Sumatera Selatan
+61609,POLISI RESORT Kab. Ogan Komering Ulu Selatan,Sumatera Selatan
+61610,POLISI RESORT Kab. Ogan Ilir,Sumatera Selatan
+61611,POLISI RESORT Kab. Empat Lawang,Sumatera Selatan
+61612,POLISI RESORT Kab. Penukal Abab Lematang Ilir,Sumatera Selatan
+61613,POLISI RESORT Kab. Musi Rawas Utara,Sumatera Selatan
+61671,POLISI RESORT Kota Palembang,Sumatera Selatan
+61672,POLISI RESORT Kota Pagar Alam,Sumatera Selatan
+61673,POLISI RESORT Kota Lubuk Linggau,Sumatera Selatan
+61674,POLISI RESORT Kota Prabumulih,Sumatera Selatan
+617,POLISI DAERAH  BENGKULU,Bengkulu
+61701,POLISI RESORT Kab. Bengkulu Selatan,Bengkulu
+61702,POLISI RESORT Kab. Rejang Lebong,Bengkulu
+61703,POLISI RESORT Kab. Bengkulu Utara,Bengkulu
+61704,POLISI RESORT Kab. Kaur,Bengkulu
+61705,POLISI RESORT Kab. Seluma,Bengkulu
+61706,POLISI RESORT Kab. Mukomuko,Bengkulu
+61707,POLISI RESORT Kab. Lebong,Bengkulu
+61708,POLISI RESORT Kab. Kepahiang,Bengkulu
+61709,POLISI RESORT Kab. Bengkulu Tengah,Bengkulu
+61771,POLISI RESORT Kota Bengkulu,Bengkulu
+618,POLISI DAERAH  LAMPUNG,Lampung
+61801,POLISI RESORT Kab. Lampung Selatan,Lampung
+61802,POLISI RESORT Kab. Lampung Tengah,Lampung
+61803,POLISI RESORT Kab. Lampung Utara,Lampung
+61804,POLISI RESORT Kab. Lampung Barat,Lampung
+61805,POLISI RESORT Kab. Tulang Bawang,Lampung
+61806,POLISI RESORT Kab. Tenggamus,Lampung
+61807,POLISI RESORT Kab. Lampung Timur,Lampung
+61808,POLISI RESORT Kab. Way Kanan,Lampung
+61809,POLISI RESORT Kab. Pesawaran,Lampung
+61810,POLISI RESORT Kab. Pringsewu,Lampung
+61811,POLISI RESORT Kab. Mesuji,Lampung
+61812,POLISI RESORT Kab. Tulang Bawang Barat,Lampung
+61813,POLISI RESORT Kab. Pesisir Barat,Lampung
+61871,POLISI RESORT Kota Bandar Lampung,Lampung
+61872,POLISI RESORT Kota Metro,Lampung
+619,POLISI DAERAH  BABEL,Bangka Belitung
+61901,POLISI RESORT Kab. Bangka,Bangka Belitung
+61902,POLISI RESORT Kab. Belitung,Bangka Belitung
+61903,POLISI RESORT Kab. Bangka Selatan,Bangka Belitung
+61904,POLISI RESORT Kab. Bangka Tengah,Bangka Belitung
+61905,POLISI RESORT Kab. Bangka Barat,Bangka Belitung
+61906,POLISI RESORT Kab. Belitung Timur,Bangka Belitung
+61971,POLISI RESORT Kota Pangkal Pinang,Bangka Belitung
+621,POLISI DAERAH  KEPRI,Kepulauan Riau
+62101,POLISI RESORT Kab. Bintan,Kepulauan Riau
+62102,POLISI RESORT Kab. Karimun,Kepulauan Riau
+62103,POLISI RESORT Kab. Natuna,Kepulauan Riau
+62104,POLISI RESORT Kab. Lingga,Kepulauan Riau
+62105,POLISI RESORT Kab. Kepulauan Anambas,Kepulauan Riau
+62171,POLISI RESORT Kota Batam,Kepulauan Riau
+62172,POLISI RESORT Kota Tanjung Pinang,Kepulauan Riau
+631,POLISI DAERAH  DKI Jakarta,DKI Jakarta
+63101,POLISI RESORT Kab. Administrasi Kepulauan Seribu,DKI Jakarta
+63171,POLISI RESORT Kota Administrasi Jakarta Pusat,DKI Jakarta
+63172,POLISI RESORT Kota Administrasi Jakarta Utara,DKI Jakarta
+63173,POLISI RESORT Kota Administrasi Jakarta Barat,DKI Jakarta
+63174,POLISI RESORT Kota Administrasi Jakarta Selatan,DKI Jakarta
+63175,POLISI RESORT Kota Administrasi Jakarta Timur,DKI Jakarta
+632,POLISI DAERAH  JABAR,Jawa Barat
+63201,POLISI RESORT Kab. Bogor,Jawa Barat
+63202,POLISI RESORT Kab. Sukabumi,Jawa Barat
+63203,POLISI RESORT Kab. Cianjur,Jawa Barat
+63204,POLISI RESORT Kab. Bandung,Jawa Barat
+63205,POLISI RESORT Kab. Garut,Jawa Barat
+63206,POLISI RESORT Kab. Tasikmalaya,Jawa Barat
+63207,POLISI RESORT Kab. Ciamis,Jawa Barat
+63208,POLISI RESORT Kab. Kuningan,Jawa Barat
+63209,POLISI RESORT Kab. Cirebon,Jawa Barat
+63210,POLISI RESORT Kab. Majalengka,Jawa Barat
+63211,POLISI RESORT Kab. Sumedang,Jawa Barat
+63212,POLISI RESORT Kab. Indramayu,Jawa Barat
+63213,POLISI RESORT Kab. Subang,Jawa Barat
+63214,POLISI RESORT Kab. Purwakarta,Jawa Barat
+63215,POLISI RESORT Kab. Karawang,Jawa Barat
+63216,POLISI RESORT Kab. Bekasi,Jawa Barat
+63217,POLISI RESORT Kab. Bandung Barat,Jawa Barat
+63218,POLISI RESORT Kab. Pangandaran,Jawa Barat
+63271,POLISI RESORT Kota Bogor,Jawa Barat
+63272,POLISI RESORT Kota Sukabumi,Jawa Barat
+63273,POLISI RESORT Kota Bandung,Jawa Barat
+63274,POLISI RESORT Kota Cirebon,Jawa Barat
+63275,POLISI RESORT Kota Bekasi,Jawa Barat
+63276,POLISI RESORT Kota Depok,Jawa Barat
+63277,POLISI RESORT Kota Cimahi,Jawa Barat
+63278,POLISI RESORT Kota Tasikmalaya,Jawa Barat
+63279,POLISI RESORT Kota Banjar,Jawa Barat
+633,POLISI DAERAH  JATENG,Jawa Tengah
+63301,POLISI RESORT Kab. Cilacap,Jawa Tengah
+63302,POLISI RESORT Kab. Banyumas,Jawa Tengah
+63303,POLISI RESORT Kab. Purbalingga,Jawa Tengah
+63304,POLISI RESORT Kab. Banjarnegara,Jawa Tengah
+63305,POLISI RESORT Kab. Kebumen,Jawa Tengah
+63306,POLISI RESORT Kab. Purworejo,Jawa Tengah
+63307,POLISI RESORT Kab. Wonosobo,Jawa Tengah
+63308,POLISI RESORT Kab. Magelang,Jawa Tengah
+63309,POLISI RESORT Kab. Boyolali,Jawa Tengah
+63310,POLISI RESORT Kab. Klaten,Jawa Tengah
+63311,POLISI RESORT Kab. Sukoharjo,Jawa Tengah
+63312,POLISI RESORT Kab. Wonogiri,Jawa Tengah
+63313,POLISI RESORT Kab. Karanganyar,Jawa Tengah
+63314,POLISI RESORT Kab. Sragen,Jawa Tengah
+63315,POLISI RESORT Kab. Grobogan,Jawa Tengah
+63316,POLISI RESORT Kab. Blora,Jawa Tengah
+63317,POLISI RESORT Kab. Rembang,Jawa Tengah
+63318,POLISI RESORT Kab. Pati,Jawa Tengah
+63319,POLISI RESORT Kab. Kudus,Jawa Tengah
+63320,POLISI RESORT Kab. Jepara,Jawa Tengah
+63321,POLISI RESORT Kab. Demak,Jawa Tengah
+63322,POLISI RESORT Kab. Semarang,Jawa Tengah
+63323,POLISI RESORT Kab. Temanggung,Jawa Tengah
+63324,POLISI RESORT Kab. Kendal,Jawa Tengah
+63325,POLISI RESORT Kab. Batang,Jawa Tengah
+63326,POLISI RESORT Kab. Pekalongan,Jawa Tengah
+63327,POLISI RESORT Kab. Pemalang,Jawa Tengah
+63328,POLISI RESORT Kab. Tegal,Jawa Tengah
+63329,POLISI RESORT Kab. Brebes,Jawa Tengah
+63371,POLISI RESORT Kota Magelang,Jawa Tengah
+63372,POLISI RESORT Kota Surakarta,Jawa Tengah
+63373,POLISI RESORT Kota Salatiga,Jawa Tengah
+63374,POLISI RESORT Kota Semarang,Jawa Tengah
+63375,POLISI RESORT Kota Pekalongan,Jawa Tengah
+63376,POLISI RESORT Kota Tegal,Jawa Tengah
+634,POLISI DAERAH  DI Yogyakarta,DI Yogyakarta
+63401,POLISI RESORT Kab. Kulon Progo,DI Yogyakarta
+63402,POLISI RESORT Kab. Bantul,DI Yogyakarta
+63403,POLISI RESORT Kab. Gunung Kidul,DI Yogyakarta
+63404,POLISI RESORT Kab. Sleman,DI Yogyakarta
+63471,POLISI RESORT Kota Yogyakarta,DI Yogyakarta
+635,POLISI DAERAH  JATIM,Jawa Timur
+63501,POLISI RESORT Kab. Pacitan,Jawa Timur
+63502,POLISI RESORT Kab. Ponorogo,Jawa Timur
+63503,POLISI RESORT Kab. Trenggalek,Jawa Timur
+63504,POLISI RESORT Kab. Tulungagung,Jawa Timur
+63505,POLISI RESORT Kab. Blitar,Jawa Timur
+63506,POLISI RESORT Kab. Kediri,Jawa Timur
+63507,POLISI RESORT Kab. Malang,Jawa Timur
+63508,POLISI RESORT Kab. Lumajang,Jawa Timur
+63509,POLISI RESORT Kab. Jember,Jawa Timur
+63510,POLISI RESORT Kab. Banyuwangi,Jawa Timur
+63511,POLISI RESORT Kab. Bondowoso,Jawa Timur
+63512,POLISI RESORT Kab. Situbondo,Jawa Timur
+63513,POLISI RESORT Kab. Probolinggo,Jawa Timur
+63514,POLISI RESORT Kab. Pasuruan,Jawa Timur
+63515,POLISI RESORT Kab. Sidoarjo,Jawa Timur
+63516,POLISI RESORT Kab. Mojokerto,Jawa Timur
+63517,POLISI RESORT Kab. Jombang,Jawa Timur
+63518,POLISI RESORT Kab. Nganjuk,Jawa Timur
+63519,POLISI RESORT Kab. Madiun,Jawa Timur
+63520,POLISI RESORT Kab. Magetan,Jawa Timur
+63521,POLISI RESORT Kab. Ngawi,Jawa Timur
+63522,POLISI RESORT Kab. Bojonegoro,Jawa Timur
+63523,POLISI RESORT Kab. Tuban,Jawa Timur
+63524,POLISI RESORT Kab. Lamongan,Jawa Timur
+63525,POLISI RESORT Kab. Gresik,Jawa Timur
+63526,POLISI RESORT Kab. Bangkalan,Jawa Timur
+63527,POLISI RESORT Kab. Sampang,Jawa Timur
+63528,POLISI RESORT Kab. Pamekasan,Jawa Timur
+63529,POLISI RESORT Kab. Sumenep,Jawa Timur
+63571,POLISI RESORT Kota Kediri,Jawa Timur
+63572,POLISI RESORT Kota Blitar,Jawa Timur
+63573,POLISI RESORT Kota Malang,Jawa Timur
+63574,POLISI RESORT Kota Probolinggo,Jawa Timur
+63575,POLISI RESORT Kota Pasuruan,Jawa Timur
+63576,POLISI RESORT Kota Mojokerto,Jawa Timur
+63577,POLISI RESORT Kota Madiun,Jawa Timur
+63578,POLISI RESORT Kota Surabaya,Jawa Timur
+63579,POLISI RESORT Kota Batu,Jawa Timur
+636,POLISI DAERAH  BANTEN,Banten
+63601,POLISI RESORT Kab. Pandegelang,Banten
+63602,POLISI RESORT Kab. Lebak,Banten
+63603,POLISI RESORT Kab. Tangerang,Banten
+63604,POLISI RESORT Kab. Serang,Banten
+63671,POLISI RESORT Kota Tangerang,Banten
+63672,POLISI RESORT Kota Cilegon,Banten
+63673,POLISI RESORT Kota Serang,Banten
+63674,POLISI RESORT Kota Tangerang Selatan,Banten
+651,POLISI DAERAH  BALI,Bali
+65101,POLISI RESORT Kab. Jembrana,Bali
+65102,POLISI RESORT Kab. Tabanan,Bali
+65103,POLISI RESORT Kab. Badung,Bali
+65104,POLISI RESORT Kab. Gianyar,Bali
+65105,POLISI RESORT Kab. Klungkung,Bali
+65106,POLISI RESORT Kab. Bangli,Bali
+65107,POLISI RESORT Kab. Karangasem,Bali
+65108,POLISI RESORT Kab. Buleleng,Bali
+65171,POLISI RESORT Kota Denpasar,Bali
+652,POLISI DAERAH  NTB,Nusa Tenggara Barat
+65201,POLISI RESORT Kab. Lombok Barat,Nusa Tenggara Barat
+65202,POLISI RESORT Kab. Lombok Tengah,Nusa Tenggara Barat
+65203,POLISI RESORT Kab. Lombok Timur,Nusa Tenggara Barat
+65204,POLISI RESORT Kab. Sumbawa,Nusa Tenggara Barat
+65205,POLISI RESORT Kab. Dompu,Nusa Tenggara Barat
+65206,POLISI RESORT Kab. Bima,Nusa Tenggara Barat
+65207,POLISI RESORT Kab. Sumbawa Barat,Nusa Tenggara Barat
+65208,POLISI RESORT Kab. Lombok Utara,Nusa Tenggara Barat
+65271,POLISI RESORT Kota Mataram,Nusa Tenggara Barat
+65272,POLISI RESORT Kota Bima,Nusa Tenggara Barat
+653,POLISI DAERAH  NTT,Nusa Tenggara Timur
+65301,POLISI RESORT Kab. Kupang,Nusa Tenggara Timur
+65302,POLISI RESORT Kab. Timor Tengah Selatan,Nusa Tenggara Timur
+65303,POLISI RESORT Kab. Timor Tengah Utara,Nusa Tenggara Timur
+65304,POLISI RESORT Kab. Belu,Nusa Tenggara Timur
+65305,POLISI RESORT Kab. Alor,Nusa Tenggara Timur
+65306,POLISI RESORT Kab. Flores Timur,Nusa Tenggara Timur
+65307,POLISI RESORT Kab. Sikka,Nusa Tenggara Timur
+65308,POLISI RESORT Kab. Ende,Nusa Tenggara Timur
+65309,POLISI RESORT Kab. Ngada,Nusa Tenggara Timur
+65310,POLISI RESORT Kab. Manggarai,Nusa Tenggara Timur
+65311,POLISI RESORT Kab. Sumba Timur,Nusa Tenggara Timur
+65312,POLISI RESORT Kab. Sumba Barat,Nusa Tenggara Timur
+65313,POLISI RESORT Kab. Lembata,Nusa Tenggara Timur
+65314,POLISI RESORT Kab. Rote Ndao,Nusa Tenggara Timur
+65315,POLISI RESORT Kab. Manggarai Barat,Nusa Tenggara Timur
+65316,POLISI RESORT Kab. Nagekeo,Nusa Tenggara Timur
+65317,POLISI RESORT Kab. Sumba Tengah,Nusa Tenggara Timur
+65318,POLISI RESORT Kab. Sumba Barat Daya,Nusa Tenggara Timur
+65319,POLISI RESORT Kab. Manggarai Timur,Nusa Tenggara Timur
+65320,POLISI RESORT Kab. Sabu Raijua,Nusa Tenggara Timur
+65321,POLISI RESORT Kab. Malaka,Nusa Tenggara Timur
+65371,POLISI RESORT Kota Kupang,Nusa Tenggara Timur
+661,POLISI DAERAH  KALBAR,Kalimantan Barat
+66101,POLISI RESORT Kab. Sambas,Kalimantan Barat
+66102,POLISI RESORT Kab. Mempawah,Kalimantan Barat
+66103,POLISI RESORT Kab. Sanggau,Kalimantan Barat
+66104,POLISI RESORT Kab. Ketapang,Kalimantan Barat
+66105,POLISI RESORT Kab. Sintang,Kalimantan Barat
+66106,POLISI RESORT Kab. Kapuas Hulu,Kalimantan Barat
+66107,POLISI RESORT Kab. Bengkayang,Kalimantan Barat
+66108,POLISI RESORT Kab. Landak,Kalimantan Barat
+66109,POLISI RESORT Kab. Sekadau,Kalimantan Barat
+66110,POLISI RESORT Kab. Melawi,Kalimantan Barat
+66111,POLISI RESORT Kab. Kayong Utara,Kalimantan Barat
+66112,POLISI RESORT Kab. Kubu Raya,Kalimantan Barat
+66171,POLISI RESORT Kota Pontianak,Kalimantan Barat
+66172,POLISI RESORT Kota Singkawang,Kalimantan Barat
+662,POLISI DAERAH  KALTENG,Kalimantan Tengah
+66201,POLISI RESORT Kab. Kotawaringin Barat,Kalimantan Tengah
+66202,POLISI RESORT Kab. Kotawaringin Timur,Kalimantan Tengah
+66203,POLISI RESORT Kab. Kapuas,Kalimantan Tengah
+66204,POLISI RESORT Kab. Barito Selatan,Kalimantan Tengah
+66205,POLISI RESORT Kab. Barito Utara,Kalimantan Tengah
+66206,POLISI RESORT Kab. Katingan,Kalimantan Tengah
+66207,POLISI RESORT Kab. Seruyan,Kalimantan Tengah
+66208,POLISI RESORT Kab. Sukamara,Kalimantan Tengah
+66209,POLISI RESORT Kab. Lamandau,Kalimantan Tengah
+66210,POLISI RESORT Kab. Gunung Mas,Kalimantan Tengah
+66211,POLISI RESORT Kab. Pulang Pisau,Kalimantan Tengah
+66212,POLISI RESORT Kab. Murung Raya,Kalimantan Tengah
+66213,POLISI RESORT Kab. Barito Timur,Kalimantan Tengah
+66271,POLISI RESORT Kota Palangka Raya,Kalimantan Tengah
+663,POLISI DAERAH  KALSEL,Kalimantan Selatan
+66301,POLISI RESORT Kab. Tanah Laut,Kalimantan Selatan
+66302,POLISI RESORT Kab. Kotabaru,Kalimantan Selatan
+66303,POLISI RESORT Kab. Banjar,Kalimantan Selatan
+66304,POLISI RESORT Kab. Barito Kuala,Kalimantan Selatan
+66305,POLISI RESORT Kab. Tapin,Kalimantan Selatan
+66306,POLISI RESORT Kab. Hulu Sungai Selatan,Kalimantan Selatan
+66307,POLISI RESORT Kab. Hulu Sungai Tengah,Kalimantan Selatan
+66308,POLISI RESORT Kab. Hulu Sungai Utara,Kalimantan Selatan
+66309,POLISI RESORT Kab. Tabalong,Kalimantan Selatan
+66310,POLISI RESORT Kab. Tanah Bumbu,Kalimantan Selatan
+66311,POLISI RESORT Kab. Balangan,Kalimantan Selatan
+66371,POLISI RESORT Kota Banjarmasin,Kalimantan Selatan
+66372,POLISI RESORT Kota Banjarbaru,Kalimantan Selatan
+664,POLISI DAERAH  KALTIM,Kalimantan Timur
+66401,POLISI RESORT Kab. Paser,Kalimantan Timur
+66402,POLISI RESORT Kab. Kutai Kartanegara,Kalimantan Timur
+66403,POLISI RESORT Kab. Berau,Kalimantan Timur
+66407,POLISI RESORT Kab. Kutai Barat,Kalimantan Timur
+66408,POLISI RESORT Kab. Kutai Timur,Kalimantan Timur
+66409,POLISI RESORT Kab. Panajam Paser Utara,Kalimantan Timur
+66411,POLISI RESORT Kab. Mahakam Ulu,Kalimantan Timur
+66471,POLISI RESORT Kota Balikpapan,Kalimantan Timur
+66472,POLISI RESORT Kota Samarinda,Kalimantan Timur
+66474,POLISI RESORT Kota Bontang,Kalimantan Timur
+665,POLISI DAERAH  KALUT,Kalimantan Utara
+66501,POLISI RESORT Kab. Bulungan,Kalimantan Utara
+66502,POLISI RESORT Kab. Malinau,Kalimantan Utara
+66503,POLISI RESORT Kab. Nunukan,Kalimantan Utara
+66504,POLISI RESORT Kab. Tana Tidung,Kalimantan Utara
+66571,POLISI RESORT Kota Tarakan,Kalimantan Utara
+671,POLISI DAERAH  SULUT,Sulawesi Utara
+67101,POLISI RESORT Kab. Bolaang Mongondow,Sulawesi Utara
+67102,POLISI RESORT Kab. Minahasa,Sulawesi Utara
+67103,POLISI RESORT Kab. Kepulauan Sangihe,Sulawesi Utara
+67104,POLISI RESORT Kab. Kepulauan Talaud,Sulawesi Utara
+67105,POLISI RESORT Kab. Minahasa Selatan,Sulawesi Utara
+67106,POLISI RESORT Kab. Minahasa Utara,Sulawesi Utara
+67107,POLISI RESORT Kab. Minahasa Tenggara,Sulawesi Utara
+67108,POLISI RESORT Kab. Bolaang Mongondow Utara,Sulawesi Utara
+67109,POLISI RESORT Kab. Siau Tagulandang Biaro,Sulawesi Utara
+67110,POLISI RESORT Kab. Bolaang Mongondow Timur,Sulawesi Utara
+67111,POLISI RESORT Kab. Bolaang Mongondow Selatan,Sulawesi Utara
+67171,POLISI RESORT Kota Manado,Sulawesi Utara
+67172,POLISI RESORT Kota Bitung,Sulawesi Utara
+67173,POLISI RESORT Kota Tomohon,Sulawesi Utara
+67174,POLISI RESORT Kota Kotamobagu,Sulawesi Utara
+672,POLISI DAERAH  SULTENG,Sulawesi Tengah
+67201,POLISI RESORT Kab. Banggai,Sulawesi Tengah
+67202,POLISI RESORT Kab. Poso,Sulawesi Tengah
+67203,POLISI RESORT Kab. Donggala,Sulawesi Tengah
+67204,POLISI RESORT Kab. Tolitoli,Sulawesi Tengah
+67205,POLISI RESORT Kab. Buol,Sulawesi Tengah
+67206,POLISI RESORT Kab. Morowali,Sulawesi Tengah
+67207,POLISI RESORT Kab. Banggai Kepulauan,Sulawesi Tengah
+67208,POLISI RESORT Kab. Parigi Moutong,Sulawesi Tengah
+67209,POLISI RESORT Kab. Tojo Una-una,Sulawesi Tengah
+67210,POLISI RESORT Kab. Sigi,Sulawesi Tengah
+67211,POLISI RESORT Kab. Banggai Laut,Sulawesi Tengah
+67212,POLISI RESORT Kab. Morowali Utara,Sulawesi Tengah
+67271,POLISI RESORT Kota Palu,Sulawesi Tengah
+673,POLISI DAERAH  SULSEL,Sulawesi Selatan
+67301,POLISI RESORT Kab. Kepulauan Selayar,Sulawesi Selatan
+67302,POLISI RESORT Kab. Bulukumba,Sulawesi Selatan
+67303,POLISI RESORT Kab. Bantaeng,Sulawesi Selatan
+67304,POLISI RESORT Kab. Jeneponto,Sulawesi Selatan
+67305,POLISI RESORT Kab. Takalar,Sulawesi Selatan
+67306,POLISI RESORT Kab. Gowa,Sulawesi Selatan
+67307,POLISI RESORT Kab. Sinjai,Sulawesi Selatan
+67308,POLISI RESORT Kab. Bone,Sulawesi Selatan
+67309,POLISI RESORT Kab. Maros,Sulawesi Selatan
+67310,POLISI RESORT Kab. Pangkajene dan Kepulauan,Sulawesi Selatan
+67311,POLISI RESORT Kab. Barru,Sulawesi Selatan
+67312,POLISI RESORT Kab. Soppeng,Sulawesi Selatan
+67313,POLISI RESORT Kab. Wajo,Sulawesi Selatan
+67314,POLISI RESORT Kab. Sidenreng Rappang,Sulawesi Selatan
+67315,POLISI RESORT Kab. Pinrang,Sulawesi Selatan
+67316,POLISI RESORT Kab. Enrekang,Sulawesi Selatan
+67317,POLISI RESORT Kab. Luwu,Sulawesi Selatan
+67318,POLISI RESORT Kab. Tana Toraja,Sulawesi Selatan
+67322,POLISI RESORT Kab. Luwu Utara,Sulawesi Selatan
+67324,POLISI RESORT Kab. Luwu Timur,Sulawesi Selatan
+67326,POLISI RESORT Kab. Toraja Utara,Sulawesi Selatan
+67371,POLISI RESORT Kota Makassar,Sulawesi Selatan
+67372,POLISI RESORT Kota Parepare,Sulawesi Selatan
+67373,POLISI RESORT Kota Palopo,Sulawesi Selatan
+674,POLISI DAERAH  SULTRA,Sulawesi Tenggara
+67401,POLISI RESORT Kab. Kolaka,Sulawesi Tenggara
+67402,POLISI RESORT Kab. Konawe,Sulawesi Tenggara
+67403,POLISI RESORT Kab. Muna,Sulawesi Tenggara
+67404,POLISI RESORT Kab. Buton,Sulawesi Tenggara
+67405,POLISI RESORT Kab. Konawe Selatan,Sulawesi Tenggara
+67406,POLISI RESORT Kab. Bombana,Sulawesi Tenggara
+67407,POLISI RESORT Kab. Wakatobi,Sulawesi Tenggara
+67408,POLISI RESORT Kab. Kolaka Utara,Sulawesi Tenggara
+67409,POLISI RESORT Kab. Konawe Utara,Sulawesi Tenggara
+67410,POLISI RESORT Kab. Buton Utara,Sulawesi Tenggara
+67411,POLISI RESORT Kab. Kolaka Timur,Sulawesi Tenggara
+67412,POLISI RESORT Kab. Konawe Kepulauan,Sulawesi Tenggara
+67413,POLISI RESORT Kab. Muna Barat,Sulawesi Tenggara
+67414,POLISI RESORT Kab. Buton Tengah,Sulawesi Tenggara
+67415,POLISI RESORT Kab. Buton Selatan,Sulawesi Tenggara
+67471,POLISI RESORT Kota Kendari,Sulawesi Tenggara
+67472,POLISI RESORT Kota Baubau,Sulawesi Tenggara
+675,POLISI DAERAH  GORONTALO,Gorontalo
+67501,POLISI RESORT Kab. Gorontalo,Gorontalo
+67502,POLISI RESORT Kab. Boalemo,Gorontalo
+67503,POLISI RESORT Kab. Bone Bolango,Gorontalo
+67504,POLISI RESORT Kab. Pahuwato,Gorontalo
+67505,POLISI RESORT Kab. Gorontalo Utara,Gorontalo
+67571,POLISI RESORT Kota Gorontalo,Gorontalo
+676,POLISI DAERAH  SULBAR,Sulawesi Barat
+67601,POLISI RESORT Kab. Pasangkayu,Sulawesi Barat
+67602,POLISI RESORT Kab. Mamuju,Sulawesi Barat
+67603,POLISI RESORT Kab. Mamasa,Sulawesi Barat
+67604,POLISI RESORT Kab. Poliwali Mandar,Sulawesi Barat
+67605,POLISI RESORT Kab. Majene,Sulawesi Barat
+67606,POLISI RESORT Kab. Mamuju Tengah,Sulawesi Barat
+681,POLISI DAERAH  MALUKU,Maluku
+68101,POLISI RESORT Kab. Maluku Tengah,Maluku
+68102,POLISI RESORT Kab. Maluku Tenggara,Maluku
+68103,POLISI RESORT Kab. Maluku Tenggara Barat,Maluku
+68104,POLISI RESORT Kab. Buru,Maluku
+68105,POLISI RESORT Kab. Seram Bagian Timur,Maluku
+68106,POLISI RESORT Kab. Seram Bagian Barat,Maluku
+68107,POLISI RESORT Kab. Kepulauan Aru,Maluku
+68108,POLISI RESORT Kab. Maluku Barat Daya,Maluku
+68109,POLISI RESORT Kab. Buru Selatan,Maluku
+68171,POLISI RESORT Kota Ambon,Maluku
+68172,POLISI RESORT Kota Tual,Maluku
+682,POLISI DAERAH  MALUT,Maluku Utara
+68201,POLISI RESORT Kab. Halmahera Barat,Maluku Utara
+68202,POLISI RESORT Kab. Halmahera Tengah,Maluku Utara
+68203,POLISI RESORT Kab. Halmahera Utara,Maluku Utara
+68204,POLISI RESORT Kab. Halmahera Selatan,Maluku Utara
+68205,POLISI RESORT Kab. Kepulauan Sula,Maluku Utara
+68206,POLISI RESORT Kab. Halmahera Timur,Maluku Utara
+68207,POLISI RESORT Kab. Pulau Morotai,Maluku Utara
+68208,POLISI RESORT Kab. Pulau Taliabu,Maluku Utara
+68271,POLISI RESORT Kota Ternate,Maluku Utara
+68272,POLISI RESORT Kota Tidore Kepulauan,Maluku Utara
+691,POLISI DAERAH  PAPUA,Papua
+69101,POLISI RESORT Kab. Merauke,Papua
+69102,POLISI RESORT Kab. Jayawijaya,Papua
+69103,POLISI RESORT Kab. Jayapura,Papua
+69104,POLISI RESORT Kab. Nabire,Papua
+69105,POLISI RESORT Kab. Kepulauan Yapen,Papua
+69106,POLISI RESORT Kab. Biak Numfor,Papua
+69107,POLISI RESORT Kab. Puncak Jaya,Papua
+69108,POLISI RESORT Kab. Paniai,Papua
+69109,POLISI RESORT Kab. Mimika,Papua
+69110,POLISI RESORT Kab. Sarmi,Papua
+69111,POLISI RESORT Kab. Keerom,Papua
+69112,POLISI RESORT Kab. Pegunungan Bintang,Papua
+69113,POLISI RESORT Kab. Yahukimo,Papua
+69114,POLISI RESORT Kab. Tolikara,Papua
+69115,POLISI RESORT Kab. Waropen,Papua
+69116,POLISI RESORT Kab. Boven Digoel,Papua
+69117,POLISI RESORT Kab. Mappi,Papua
+69118,POLISI RESORT Kab. Asmat,Papua
+69119,POLISI RESORT Kab. Supiori,Papua
+69120,POLISI RESORT Kab. Mamberamo Raya,Papua
+69121,POLISI RESORT Kab. Mamberamo Tengah,Papua
+69122,POLISI RESORT Kab. Yalimo,Papua
+69123,POLISI RESORT Kab. Lanny Jaya,Papua
+69124,POLISI RESORT Kab. Nduga,Papua
+69125,POLISI RESORT Kab. Puncak,Papua
+69126,POLISI RESORT Kab. Dogiyai,Papua
+69127,POLISI RESORT Kab. Intan Jaya,Papua
+69128,POLISI RESORT Kab. Deiyai,Papua
+69171,POLISI RESORT Kota Jayapura,Papua
+692,POLISI DAERAH  PAPBAR,Papua Barat
+69201,POLISI RESORT Kab. Sorong,Papua Barat
+69202,POLISI RESORT Kab. Manokwari,Papua Barat
+69203,POLISI RESORT Kab. Fakfak,Papua Barat
+69204,POLISI RESORT Kab. Sorong Selatan,Papua Barat
+69205,POLISI RESORT Kab. Raja Ampat,Papua Barat
+69206,POLISI RESORT Kab. Teluk Bintuni,Papua Barat
+69207,POLISI RESORT Kab. Teluk Wondama,Papua Barat
+69208,POLISI RESORT Kab. Kaimana,Papua Barat
+69209,POLISI RESORT Kab. Tambrauw,Papua Barat
+69210,POLISI RESORT Kab. Maybrat,Papua Barat
+69211,POLISI RESORT Kab. Manokwari Selatan,Papua Barat
+69212,POLISI RESORT Kab. Pegunungan Arfak,Papua Barat
+69271,POLISI RESORT Kota Sorong,Papua Barat

@@ -1,0 +1,550 @@
+GROUP ID,KETERANGAN,PROPINSI
+700,KEMEN KOMINFO
+711,DISKOMINFO PROV.  Aceh,Aceh
+71101,DISKOMINFO Kab. Aceh Selatan,Aceh
+71102,DISKOMINFO Kab. Aceh Tenggara,Aceh
+71103,DISKOMINFO Kab. Aceh Timur,Aceh
+71104,DISKOMINFO Kab. Aceh Tengah,Aceh
+71105,DISKOMINFO Kab. Aceh Barat,Aceh
+71106,DISKOMINFO Kab. Aceh Besar,Aceh
+71107,DISKOMINFO Kab. Pidie,Aceh
+71108,DISKOMINFO Kab. Aceh Utara,Aceh
+71109,DISKOMINFO Kab. Simeulue,Aceh
+71110,DISKOMINFO Kab. Aceh Singkil,Aceh
+71111,DISKOMINFO Kab. Bireuen,Aceh
+71112,DISKOMINFO Kab. Aceh Barat Daya,Aceh
+71113,DISKOMINFO Kab. Gayo Lues,Aceh
+71114,DISKOMINFO Kab. Aceh Jaya,Aceh
+71115,DISKOMINFO Kab. Nagan Raya,Aceh
+71116,DISKOMINFO Kab. Aceh Tamiang,Aceh
+71117,DISKOMINFO Kab. Bener Meriah,Aceh
+71118,DISKOMINFO Kab. Pidie Jaya,Aceh
+71171,DISKOMINFO Kota Banda Aceh,Aceh
+71172,DISKOMINFO Kota Sabang,Aceh
+71173,DISKOMINFO Kota Lhokseumawe,Aceh
+71174,DISKOMINFO Kota Langsa,Aceh
+71175,DISKOMINFO Kota Subulussalam,Aceh
+712,DISKOMINFO PROV.  SUMUT,Sumatera Utara
+71201,DISKOMINFO Kab. Tapanuli Tengah,Sumatera Utara
+71202,DISKOMINFO Kab. Tapanuli Utara,Sumatera Utara
+71203,DISKOMINFO Kab. Tapanuli Selatan,Sumatera Utara
+71204,DISKOMINFO Kab. Nias,Sumatera Utara
+71205,DISKOMINFO Kab. Langkat,Sumatera Utara
+71206,DISKOMINFO Kab. Karo,Sumatera Utara
+71207,DISKOMINFO Kab. Deli Serdang,Sumatera Utara
+71208,DISKOMINFO Kab. Simalungun,Sumatera Utara
+71209,DISKOMINFO Kab. Asahan,Sumatera Utara
+71210,DISKOMINFO Kab. Labuhanbatu,Sumatera Utara
+71211,DISKOMINFO Kab. Dairi,Sumatera Utara
+71212,DISKOMINFO Kab. Toba Samosir,Sumatera Utara
+71213,DISKOMINFO Kab. Mandailing Natal,Sumatera Utara
+71214,DISKOMINFO Kab. Nias Selatan,Sumatera Utara
+71215,DISKOMINFO Kab. Pakpak Bharat,Sumatera Utara
+71216,DISKOMINFO Kab. Humbang Hasundutan,Sumatera Utara
+71217,DISKOMINFO Kab. Samosir,Sumatera Utara
+71218,DISKOMINFO Kab. Serdang Bedagai,Sumatera Utara
+71219,DISKOMINFO Kab. Batu Bara,Sumatera Utara
+71220,DISKOMINFO Kab. Padang Lawas Utara,Sumatera Utara
+71221,DISKOMINFO Kab. Padang Lawas,Sumatera Utara
+71222,DISKOMINFO Kab. Labuhanbatu Selatan,Sumatera Utara
+71223,DISKOMINFO Kab. Labuhanbatu Utara,Sumatera Utara
+71224,DISKOMINFO Kab. Nias Utara,Sumatera Utara
+71225,DISKOMINFO Kab. Nias Barat,Sumatera Utara
+71271,DISKOMINFO Kota Medan,Sumatera Utara
+71272,DISKOMINFO Kota Pematang Siantar,Sumatera Utara
+71273,DISKOMINFO Kota Sibolga,Sumatera Utara
+71274,DISKOMINFO Kota Tanjung Balai,Sumatera Utara
+71275,DISKOMINFO Kota Binjai,Sumatera Utara
+71276,DISKOMINFO Kota Tebing Tinggi,Sumatera Utara
+71277,DISKOMINFO Kota Padang Sidempuan,Sumatera Utara
+71278,DISKOMINFO Kota Gunung Sitoli,Sumatera Utara
+713,DISKOMINFO PROV.  SUMBAR,Sumatera Barat
+71301,DISKOMINFO Kab. Pesisir Selatan,Sumatera Barat
+71302,DISKOMINFO Kab. Solok,Sumatera Barat
+71303,DISKOMINFO Kab. Sijunjung,Sumatera Barat
+71304,DISKOMINFO Kab. Tanah Datar,Sumatera Barat
+71305,DISKOMINFO Kab. Padang Pariaman,Sumatera Barat
+71306,DISKOMINFO Kab. Agam,Sumatera Barat
+71307,DISKOMINFO Kab. Lima Puluh Kota,Sumatera Barat
+71308,DISKOMINFO Kab. Pasaman,Sumatera Barat
+71309,DISKOMINFO Kab. Kepulauan Mentawai,Sumatera Barat
+71310,DISKOMINFO Kab. Dharmasraya,Sumatera Barat
+71311,DISKOMINFO Kab. Solok Selatan,Sumatera Barat
+71312,DISKOMINFO Kab. Pasaman Barat,Sumatera Barat
+71371,DISKOMINFO Kota Padang,Sumatera Barat
+71372,DISKOMINFO Kota Solok,Sumatera Barat
+71373,DISKOMINFO Kota Sawahlunto,Sumatera Barat
+71374,DISKOMINFO Kota Padangpanjang,Sumatera Barat
+71375,DISKOMINFO Kota Bukittinggi,Sumatera Barat
+71376,DISKOMINFO Kota Payakumbuh,Sumatera Barat
+71377,DISKOMINFO Kota Pariaman,Sumatera Barat
+714,DISKOMINFO PROV.  RIAU,Riau
+71401,DISKOMINFO Kab. Kampar,Riau
+71402,DISKOMINFO Kab. Indragiri Hulu,Riau
+71403,DISKOMINFO Kab. Bengkalis,Riau
+71404,DISKOMINFO Kab. Indragiri Hilir,Riau
+71405,DISKOMINFO Kab. Pelalawan,Riau
+71406,DISKOMINFO Kab. Rokan Hulu,Riau
+71407,DISKOMINFO Kab. Rokan Hilir,Riau
+71408,DISKOMINFO Kab. Siak,Riau
+71409,DISKOMINFO Kab. Kuantan Singingi,Riau
+71410,DISKOMINFO Kab. Kepulauan Meranti,Riau
+71471,DISKOMINFO Kota Pekanbaru,Riau
+71472,DISKOMINFO Kota Dumai,Riau
+715,DISKOMINFO PROV.  JAMBI,Jambi
+71501,DISKOMINFO Kab. Kerinci,Jambi
+71502,DISKOMINFO Kab. Merangin,Jambi
+71503,DISKOMINFO Kab. Sarolangun,Jambi
+71504,DISKOMINFO Kab. Batanghari,Jambi
+71505,DISKOMINFO Kab. Muaro Jambi,Jambi
+71506,DISKOMINFO Kab. Tanjung Jabung Barat,Jambi
+71507,DISKOMINFO Kab. Tanjung Jabung Timur,Jambi
+71508,DISKOMINFO Kab. Bungo,Jambi
+71509,DISKOMINFO Kab. Tebo,Jambi
+71571,DISKOMINFO Kota Jambi,Jambi
+71572,DISKOMINFO Kota Sungai Penuh,Jambi
+716,DISKOMINFO PROV.  SUMSEL,Sumatera Selatan
+71601,DISKOMINFO Kab. Ogan Komering Ulu,Sumatera Selatan
+71602,DISKOMINFO Kab. Ogan Komering Ilir,Sumatera Selatan
+71603,DISKOMINFO Kab. Muara Enim,Sumatera Selatan
+71604,DISKOMINFO Kab. Lahat,Sumatera Selatan
+71605,DISKOMINFO Kab. Musi Rawas,Sumatera Selatan
+71606,DISKOMINFO Kab. Musi Banyuasin,Sumatera Selatan
+71607,DISKOMINFO Kab. Banyuasin,Sumatera Selatan
+71608,DISKOMINFO Kab. Ogan Komering Ulu Timur,Sumatera Selatan
+71609,DISKOMINFO Kab. Ogan Komering Ulu Selatan,Sumatera Selatan
+71610,DISKOMINFO Kab. Ogan Ilir,Sumatera Selatan
+71611,DISKOMINFO Kab. Empat Lawang,Sumatera Selatan
+71612,DISKOMINFO Kab. Penukal Abab Lematang Ilir,Sumatera Selatan
+71613,DISKOMINFO Kab. Musi Rawas Utara,Sumatera Selatan
+71671,DISKOMINFO Kota Palembang,Sumatera Selatan
+71672,DISKOMINFO Kota Pagar Alam,Sumatera Selatan
+71673,DISKOMINFO Kota Lubuk Linggau,Sumatera Selatan
+71674,DISKOMINFO Kota Prabumulih,Sumatera Selatan
+717,DISKOMINFO PROV.  BENGKULU,Bengkulu
+71701,DISKOMINFO Kab. Bengkulu Selatan,Bengkulu
+71702,DISKOMINFO Kab. Rejang Lebong,Bengkulu
+71703,DISKOMINFO Kab. Bengkulu Utara,Bengkulu
+71704,DISKOMINFO Kab. Kaur,Bengkulu
+71705,DISKOMINFO Kab. Seluma,Bengkulu
+71706,DISKOMINFO Kab. Mukomuko,Bengkulu
+71707,DISKOMINFO Kab. Lebong,Bengkulu
+71708,DISKOMINFO Kab. Kepahiang,Bengkulu
+71709,DISKOMINFO Kab. Bengkulu Tengah,Bengkulu
+71771,DISKOMINFO Kota Bengkulu,Bengkulu
+718,DISKOMINFO PROV.  LAMPUNG,Lampung
+71801,DISKOMINFO Kab. Lampung Selatan,Lampung
+71802,DISKOMINFO Kab. Lampung Tengah,Lampung
+71803,DISKOMINFO Kab. Lampung Utara,Lampung
+71804,DISKOMINFO Kab. Lampung Barat,Lampung
+71805,DISKOMINFO Kab. Tulang Bawang,Lampung
+71806,DISKOMINFO Kab. Tenggamus,Lampung
+71807,DISKOMINFO Kab. Lampung Timur,Lampung
+71808,DISKOMINFO Kab. Way Kanan,Lampung
+71809,DISKOMINFO Kab. Pesawaran,Lampung
+71810,DISKOMINFO Kab. Pringsewu,Lampung
+71811,DISKOMINFO Kab. Mesuji,Lampung
+71812,DISKOMINFO Kab. Tulang Bawang Barat,Lampung
+71813,DISKOMINFO Kab. Pesisir Barat,Lampung
+71871,DISKOMINFO Kota Bandar Lampung,Lampung
+71872,DISKOMINFO Kota Metro,Lampung
+719,DISKOMINFO PROV.  BABEL,Bangka Belitung
+71901,DISKOMINFO Kab. Bangka,Bangka Belitung
+71902,DISKOMINFO Kab. Belitung,Bangka Belitung
+71903,DISKOMINFO Kab. Bangka Selatan,Bangka Belitung
+71904,DISKOMINFO Kab. Bangka Tengah,Bangka Belitung
+71905,DISKOMINFO Kab. Bangka Barat,Bangka Belitung
+71906,DISKOMINFO Kab. Belitung Timur,Bangka Belitung
+71971,DISKOMINFO Kota Pangkal Pinang,Bangka Belitung
+721,DISKOMINFO PROV.  KEPRI,Kepulauan Riau
+72101,DISKOMINFO Kab. Bintan,Kepulauan Riau
+72102,DISKOMINFO Kab. Karimun,Kepulauan Riau
+72103,DISKOMINFO Kab. Natuna,Kepulauan Riau
+72104,DISKOMINFO Kab. Lingga,Kepulauan Riau
+72105,DISKOMINFO Kab. Kepulauan Anambas,Kepulauan Riau
+72171,DISKOMINFO Kota Batam,Kepulauan Riau
+72172,DISKOMINFO Kota Tanjung Pinang,Kepulauan Riau
+731,DISKOMINFO PROV.  DKI Jakarta,DKI Jakarta
+73101,DISKOMINFO Kab. Administrasi Kepulauan Seribu,DKI Jakarta
+73171,DISKOMINFO Kota Administrasi Jakarta Pusat,DKI Jakarta
+73172,DISKOMINFO Kota Administrasi Jakarta Utara,DKI Jakarta
+73173,DISKOMINFO Kota Administrasi Jakarta Barat,DKI Jakarta
+73174,DISKOMINFO Kota Administrasi Jakarta Selatan,DKI Jakarta
+73175,DISKOMINFO Kota Administrasi Jakarta Timur,DKI Jakarta
+732,DISKOMINFO PROV.  JABAR,Jawa Barat
+73201,DISKOMINFO Kab. Bogor,Jawa Barat
+73202,DISKOMINFO Kab. Sukabumi,Jawa Barat
+73203,DISKOMINFO Kab. Cianjur,Jawa Barat
+73204,DISKOMINFO Kab. Bandung,Jawa Barat
+73205,DISKOMINFO Kab. Garut,Jawa Barat
+73206,DISKOMINFO Kab. Tasikmalaya,Jawa Barat
+73207,DISKOMINFO Kab. Ciamis,Jawa Barat
+73208,DISKOMINFO Kab. Kuningan,Jawa Barat
+73209,DISKOMINFO Kab. Cirebon,Jawa Barat
+73210,DISKOMINFO Kab. Majalengka,Jawa Barat
+73211,DISKOMINFO Kab. Sumedang,Jawa Barat
+73212,DISKOMINFO Kab. Indramayu,Jawa Barat
+73213,DISKOMINFO Kab. Subang,Jawa Barat
+73214,DISKOMINFO Kab. Purwakarta,Jawa Barat
+73215,DISKOMINFO Kab. Karawang,Jawa Barat
+73216,DISKOMINFO Kab. Bekasi,Jawa Barat
+73217,DISKOMINFO Kab. Bandung Barat,Jawa Barat
+73218,DISKOMINFO Kab. Pangandaran,Jawa Barat
+73271,DISKOMINFO Kota Bogor,Jawa Barat
+73272,DISKOMINFO Kota Sukabumi,Jawa Barat
+73273,DISKOMINFO Kota Bandung,Jawa Barat
+73274,DISKOMINFO Kota Cirebon,Jawa Barat
+73275,DISKOMINFO Kota Bekasi,Jawa Barat
+73276,DISKOMINFO Kota Depok,Jawa Barat
+73277,DISKOMINFO Kota Cimahi,Jawa Barat
+73278,DISKOMINFO Kota Tasikmalaya,Jawa Barat
+73279,DISKOMINFO Kota Banjar,Jawa Barat
+733,DISKOMINFO PROV.  JATENG,Jawa Tengah
+73301,DISKOMINFO Kab. Cilacap,Jawa Tengah
+73302,DISKOMINFO Kab. Banyumas,Jawa Tengah
+73303,DISKOMINFO Kab. Purbalingga,Jawa Tengah
+73304,DISKOMINFO Kab. Banjarnegara,Jawa Tengah
+73305,DISKOMINFO Kab. Kebumen,Jawa Tengah
+73306,DISKOMINFO Kab. Purworejo,Jawa Tengah
+73307,DISKOMINFO Kab. Wonosobo,Jawa Tengah
+73308,DISKOMINFO Kab. Magelang,Jawa Tengah
+73309,DISKOMINFO Kab. Boyolali,Jawa Tengah
+73310,DISKOMINFO Kab. Klaten,Jawa Tengah
+73311,DISKOMINFO Kab. Sukoharjo,Jawa Tengah
+73312,DISKOMINFO Kab. Wonogiri,Jawa Tengah
+73313,DISKOMINFO Kab. Karanganyar,Jawa Tengah
+73314,DISKOMINFO Kab. Sragen,Jawa Tengah
+73315,DISKOMINFO Kab. Grobogan,Jawa Tengah
+73316,DISKOMINFO Kab. Blora,Jawa Tengah
+73317,DISKOMINFO Kab. Rembang,Jawa Tengah
+73318,DISKOMINFO Kab. Pati,Jawa Tengah
+73319,DISKOMINFO Kab. Kudus,Jawa Tengah
+73320,DISKOMINFO Kab. Jepara,Jawa Tengah
+73321,DISKOMINFO Kab. Demak,Jawa Tengah
+73322,DISKOMINFO Kab. Semarang,Jawa Tengah
+73323,DISKOMINFO Kab. Temanggung,Jawa Tengah
+73324,DISKOMINFO Kab. Kendal,Jawa Tengah
+73325,DISKOMINFO Kab. Batang,Jawa Tengah
+73326,DISKOMINFO Kab. Pekalongan,Jawa Tengah
+73327,DISKOMINFO Kab. Pemalang,Jawa Tengah
+73328,DISKOMINFO Kab. Tegal,Jawa Tengah
+73329,DISKOMINFO Kab. Brebes,Jawa Tengah
+73371,DISKOMINFO Kota Magelang,Jawa Tengah
+73372,DISKOMINFO Kota Surakarta,Jawa Tengah
+73373,DISKOMINFO Kota Salatiga,Jawa Tengah
+73374,DISKOMINFO Kota Semarang,Jawa Tengah
+73375,DISKOMINFO Kota Pekalongan,Jawa Tengah
+73376,DISKOMINFO Kota Tegal,Jawa Tengah
+734,DISKOMINFO PROV.  DI Yogyakarta,DI Yogyakarta
+73401,DISKOMINFO Kab. Kulon Progo,DI Yogyakarta
+73402,DISKOMINFO Kab. Bantul,DI Yogyakarta
+73403,DISKOMINFO Kab. Gunung Kidul,DI Yogyakarta
+73404,DISKOMINFO Kab. Sleman,DI Yogyakarta
+73471,DISKOMINFO Kota Yogyakarta,DI Yogyakarta
+735,DISKOMINFO PROV.  JATIM,Jawa Timur
+73501,DISKOMINFO Kab. Pacitan,Jawa Timur
+73502,DISKOMINFO Kab. Ponorogo,Jawa Timur
+73503,DISKOMINFO Kab. Trenggalek,Jawa Timur
+73504,DISKOMINFO Kab. Tulungagung,Jawa Timur
+73505,DISKOMINFO Kab. Blitar,Jawa Timur
+73506,DISKOMINFO Kab. Kediri,Jawa Timur
+73507,DISKOMINFO Kab. Malang,Jawa Timur
+73508,DISKOMINFO Kab. Lumajang,Jawa Timur
+73509,DISKOMINFO Kab. Jember,Jawa Timur
+73510,DISKOMINFO Kab. Banyuwangi,Jawa Timur
+73511,DISKOMINFO Kab. Bondowoso,Jawa Timur
+73512,DISKOMINFO Kab. Situbondo,Jawa Timur
+73513,DISKOMINFO Kab. Probolinggo,Jawa Timur
+73514,DISKOMINFO Kab. Pasuruan,Jawa Timur
+73515,DISKOMINFO Kab. Sidoarjo,Jawa Timur
+73516,DISKOMINFO Kab. Mojokerto,Jawa Timur
+73517,DISKOMINFO Kab. Jombang,Jawa Timur
+73518,DISKOMINFO Kab. Nganjuk,Jawa Timur
+73519,DISKOMINFO Kab. Madiun,Jawa Timur
+73520,DISKOMINFO Kab. Magetan,Jawa Timur
+73521,DISKOMINFO Kab. Ngawi,Jawa Timur
+73522,DISKOMINFO Kab. Bojonegoro,Jawa Timur
+73523,DISKOMINFO Kab. Tuban,Jawa Timur
+73524,DISKOMINFO Kab. Lamongan,Jawa Timur
+73525,DISKOMINFO Kab. Gresik,Jawa Timur
+73526,DISKOMINFO Kab. Bangkalan,Jawa Timur
+73527,DISKOMINFO Kab. Sampang,Jawa Timur
+73528,DISKOMINFO Kab. Pamekasan,Jawa Timur
+73529,DISKOMINFO Kab. Sumenep,Jawa Timur
+73571,DISKOMINFO Kota Kediri,Jawa Timur
+73572,DISKOMINFO Kota Blitar,Jawa Timur
+73573,DISKOMINFO Kota Malang,Jawa Timur
+73574,DISKOMINFO Kota Probolinggo,Jawa Timur
+73575,DISKOMINFO Kota Pasuruan,Jawa Timur
+73576,DISKOMINFO Kota Mojokerto,Jawa Timur
+73577,DISKOMINFO Kota Madiun,Jawa Timur
+73578,DISKOMINFO Kota Surabaya,Jawa Timur
+73579,DISKOMINFO Kota Batu,Jawa Timur
+736,DISKOMINFO PROV.  BANTEN,Banten
+73601,DISKOMINFO Kab. Pandegelang,Banten
+73602,DISKOMINFO Kab. Lebak,Banten
+73603,DISKOMINFO Kab. Tangerang,Banten
+73604,DISKOMINFO Kab. Serang,Banten
+73671,DISKOMINFO Kota Tangerang,Banten
+73672,DISKOMINFO Kota Cilegon,Banten
+73673,DISKOMINFO Kota Serang,Banten
+73674,DISKOMINFO Kota Tangerang Selatan,Banten
+751,DISKOMINFO PROV.  BALI,Bali
+75101,DISKOMINFO Kab. Jembrana,Bali
+75102,DISKOMINFO Kab. Tabanan,Bali
+75103,DISKOMINFO Kab. Badung,Bali
+75104,DISKOMINFO Kab. Gianyar,Bali
+75105,DISKOMINFO Kab. Klungkung,Bali
+75106,DISKOMINFO Kab. Bangli,Bali
+75107,DISKOMINFO Kab. Karangasem,Bali
+75108,DISKOMINFO Kab. Buleleng,Bali
+75171,DISKOMINFO Kota Denpasar,Bali
+752,DISKOMINFO PROV.  NTB,Nusa Tenggara Barat
+75201,DISKOMINFO Kab. Lombok Barat,Nusa Tenggara Barat
+75202,DISKOMINFO Kab. Lombok Tengah,Nusa Tenggara Barat
+75203,DISKOMINFO Kab. Lombok Timur,Nusa Tenggara Barat
+75204,DISKOMINFO Kab. Sumbawa,Nusa Tenggara Barat
+75205,DISKOMINFO Kab. Dompu,Nusa Tenggara Barat
+75206,DISKOMINFO Kab. Bima,Nusa Tenggara Barat
+75207,DISKOMINFO Kab. Sumbawa Barat,Nusa Tenggara Barat
+75208,DISKOMINFO Kab. Lombok Utara,Nusa Tenggara Barat
+75271,DISKOMINFO Kota Mataram,Nusa Tenggara Barat
+75272,DISKOMINFO Kota Bima,Nusa Tenggara Barat
+753,DISKOMINFO PROV.  NTT,Nusa Tenggara Timur
+75301,DISKOMINFO Kab. Kupang,Nusa Tenggara Timur
+75302,DISKOMINFO Kab. Timor Tengah Selatan,Nusa Tenggara Timur
+75303,DISKOMINFO Kab. Timor Tengah Utara,Nusa Tenggara Timur
+75304,DISKOMINFO Kab. Belu,Nusa Tenggara Timur
+75305,DISKOMINFO Kab. Alor,Nusa Tenggara Timur
+75306,DISKOMINFO Kab. Flores Timur,Nusa Tenggara Timur
+75307,DISKOMINFO Kab. Sikka,Nusa Tenggara Timur
+75308,DISKOMINFO Kab. Ende,Nusa Tenggara Timur
+75309,DISKOMINFO Kab. Ngada,Nusa Tenggara Timur
+75310,DISKOMINFO Kab. Manggarai,Nusa Tenggara Timur
+75311,DISKOMINFO Kab. Sumba Timur,Nusa Tenggara Timur
+75312,DISKOMINFO Kab. Sumba Barat,Nusa Tenggara Timur
+75313,DISKOMINFO Kab. Lembata,Nusa Tenggara Timur
+75314,DISKOMINFO Kab. Rote Ndao,Nusa Tenggara Timur
+75315,DISKOMINFO Kab. Manggarai Barat,Nusa Tenggara Timur
+75316,DISKOMINFO Kab. Nagekeo,Nusa Tenggara Timur
+75317,DISKOMINFO Kab. Sumba Tengah,Nusa Tenggara Timur
+75318,DISKOMINFO Kab. Sumba Barat Daya,Nusa Tenggara Timur
+75319,DISKOMINFO Kab. Manggarai Timur,Nusa Tenggara Timur
+75320,DISKOMINFO Kab. Sabu Raijua,Nusa Tenggara Timur
+75321,DISKOMINFO Kab. Malaka,Nusa Tenggara Timur
+75371,DISKOMINFO Kota Kupang,Nusa Tenggara Timur
+761,DISKOMINFO PROV.  KALBAR,Kalimantan Barat
+76101,DISKOMINFO Kab. Sambas,Kalimantan Barat
+76102,DISKOMINFO Kab. Mempawah,Kalimantan Barat
+76103,DISKOMINFO Kab. Sanggau,Kalimantan Barat
+76104,DISKOMINFO Kab. Ketapang,Kalimantan Barat
+76105,DISKOMINFO Kab. Sintang,Kalimantan Barat
+76106,DISKOMINFO Kab. Kapuas Hulu,Kalimantan Barat
+76107,DISKOMINFO Kab. Bengkayang,Kalimantan Barat
+76108,DISKOMINFO Kab. Landak,Kalimantan Barat
+76109,DISKOMINFO Kab. Sekadau,Kalimantan Barat
+76110,DISKOMINFO Kab. Melawi,Kalimantan Barat
+76111,DISKOMINFO Kab. Kayong Utara,Kalimantan Barat
+76112,DISKOMINFO Kab. Kubu Raya,Kalimantan Barat
+76171,DISKOMINFO Kota Pontianak,Kalimantan Barat
+76172,DISKOMINFO Kota Singkawang,Kalimantan Barat
+762,DISKOMINFO PROV.  KALTENG,Kalimantan Tengah
+76201,DISKOMINFO Kab. Kotawaringin Barat,Kalimantan Tengah
+76202,DISKOMINFO Kab. Kotawaringin Timur,Kalimantan Tengah
+76203,DISKOMINFO Kab. Kapuas,Kalimantan Tengah
+76204,DISKOMINFO Kab. Barito Selatan,Kalimantan Tengah
+76205,DISKOMINFO Kab. Barito Utara,Kalimantan Tengah
+76206,DISKOMINFO Kab. Katingan,Kalimantan Tengah
+76207,DISKOMINFO Kab. Seruyan,Kalimantan Tengah
+76208,DISKOMINFO Kab. Sukamara,Kalimantan Tengah
+76209,DISKOMINFO Kab. Lamandau,Kalimantan Tengah
+76210,DISKOMINFO Kab. Gunung Mas,Kalimantan Tengah
+76211,DISKOMINFO Kab. Pulang Pisau,Kalimantan Tengah
+76212,DISKOMINFO Kab. Murung Raya,Kalimantan Tengah
+76213,DISKOMINFO Kab. Barito Timur,Kalimantan Tengah
+76271,DISKOMINFO Kota Palangka Raya,Kalimantan Tengah
+763,DISKOMINFO PROV.  KALSEL,Kalimantan Selatan
+76301,DISKOMINFO Kab. Tanah Laut,Kalimantan Selatan
+76302,DISKOMINFO Kab. Kotabaru,Kalimantan Selatan
+76303,DISKOMINFO Kab. Banjar,Kalimantan Selatan
+76304,DISKOMINFO Kab. Barito Kuala,Kalimantan Selatan
+76305,DISKOMINFO Kab. Tapin,Kalimantan Selatan
+76306,DISKOMINFO Kab. Hulu Sungai Selatan,Kalimantan Selatan
+76307,DISKOMINFO Kab. Hulu Sungai Tengah,Kalimantan Selatan
+76308,DISKOMINFO Kab. Hulu Sungai Utara,Kalimantan Selatan
+76309,DISKOMINFO Kab. Tabalong,Kalimantan Selatan
+76310,DISKOMINFO Kab. Tanah Bumbu,Kalimantan Selatan
+76311,DISKOMINFO Kab. Balangan,Kalimantan Selatan
+76371,DISKOMINFO Kota Banjarmasin,Kalimantan Selatan
+76372,DISKOMINFO Kota Banjarbaru,Kalimantan Selatan
+764,DISKOMINFO PROV.  KALTIM,Kalimantan Timur
+76401,DISKOMINFO Kab. Paser,Kalimantan Timur
+76402,DISKOMINFO Kab. Kutai Kartanegara,Kalimantan Timur
+76403,DISKOMINFO Kab. Berau,Kalimantan Timur
+76407,DISKOMINFO Kab. Kutai Barat,Kalimantan Timur
+76408,DISKOMINFO Kab. Kutai Timur,Kalimantan Timur
+76409,DISKOMINFO Kab. Panajam Paser Utara,Kalimantan Timur
+76411,DISKOMINFO Kab. Mahakam Ulu,Kalimantan Timur
+76471,DISKOMINFO Kota Balikpapan,Kalimantan Timur
+76472,DISKOMINFO Kota Samarinda,Kalimantan Timur
+76474,DISKOMINFO Kota Bontang,Kalimantan Timur
+765,DISKOMINFO PROV.  KALUT,Kalimantan Utara
+76501,DISKOMINFO Kab. Bulungan,Kalimantan Utara
+76502,DISKOMINFO Kab. Malinau,Kalimantan Utara
+76503,DISKOMINFO Kab. Nunukan,Kalimantan Utara
+76504,DISKOMINFO Kab. Tana Tidung,Kalimantan Utara
+76571,DISKOMINFO Kota Tarakan,Kalimantan Utara
+771,DISKOMINFO PROV.  SULUT,Sulawesi Utara
+77101,DISKOMINFO Kab. Bolaang Mongondow,Sulawesi Utara
+77102,DISKOMINFO Kab. Minahasa,Sulawesi Utara
+77103,DISKOMINFO Kab. Kepulauan Sangihe,Sulawesi Utara
+77104,DISKOMINFO Kab. Kepulauan Talaud,Sulawesi Utara
+77105,DISKOMINFO Kab. Minahasa Selatan,Sulawesi Utara
+77106,DISKOMINFO Kab. Minahasa Utara,Sulawesi Utara
+77107,DISKOMINFO Kab. Minahasa Tenggara,Sulawesi Utara
+77108,DISKOMINFO Kab. Bolaang Mongondow Utara,Sulawesi Utara
+77109,DISKOMINFO Kab. Siau Tagulandang Biaro,Sulawesi Utara
+77110,DISKOMINFO Kab. Bolaang Mongondow Timur,Sulawesi Utara
+77111,DISKOMINFO Kab. Bolaang Mongondow Selatan,Sulawesi Utara
+77171,DISKOMINFO Kota Manado,Sulawesi Utara
+77172,DISKOMINFO Kota Bitung,Sulawesi Utara
+77173,DISKOMINFO Kota Tomohon,Sulawesi Utara
+77174,DISKOMINFO Kota Kotamobagu,Sulawesi Utara
+772,DISKOMINFO PROV.  SULTENG,Sulawesi Tengah
+77201,DISKOMINFO Kab. Banggai,Sulawesi Tengah
+77202,DISKOMINFO Kab. Poso,Sulawesi Tengah
+77203,DISKOMINFO Kab. Donggala,Sulawesi Tengah
+77204,DISKOMINFO Kab. Tolitoli,Sulawesi Tengah
+77205,DISKOMINFO Kab. Buol,Sulawesi Tengah
+77206,DISKOMINFO Kab. Morowali,Sulawesi Tengah
+77207,DISKOMINFO Kab. Banggai Kepulauan,Sulawesi Tengah
+77208,DISKOMINFO Kab. Parigi Moutong,Sulawesi Tengah
+77209,DISKOMINFO Kab. Tojo Una-una,Sulawesi Tengah
+77210,DISKOMINFO Kab. Sigi,Sulawesi Tengah
+77211,DISKOMINFO Kab. Banggai Laut,Sulawesi Tengah
+77212,DISKOMINFO Kab. Morowali Utara,Sulawesi Tengah
+77271,DISKOMINFO Kota Palu,Sulawesi Tengah
+773,DISKOMINFO PROV.  SULSEL,Sulawesi Selatan
+77301,DISKOMINFO Kab. Kepulauan Selayar,Sulawesi Selatan
+77302,DISKOMINFO Kab. Bulukumba,Sulawesi Selatan
+77303,DISKOMINFO Kab. Bantaeng,Sulawesi Selatan
+77304,DISKOMINFO Kab. Jeneponto,Sulawesi Selatan
+77305,DISKOMINFO Kab. Takalar,Sulawesi Selatan
+77306,DISKOMINFO Kab. Gowa,Sulawesi Selatan
+77307,DISKOMINFO Kab. Sinjai,Sulawesi Selatan
+77308,DISKOMINFO Kab. Bone,Sulawesi Selatan
+77309,DISKOMINFO Kab. Maros,Sulawesi Selatan
+77310,DISKOMINFO Kab. Pangkajene dan Kepulauan,Sulawesi Selatan
+77311,DISKOMINFO Kab. Barru,Sulawesi Selatan
+77312,DISKOMINFO Kab. Soppeng,Sulawesi Selatan
+77313,DISKOMINFO Kab. Wajo,Sulawesi Selatan
+77314,DISKOMINFO Kab. Sidenreng Rappang,Sulawesi Selatan
+77315,DISKOMINFO Kab. Pinrang,Sulawesi Selatan
+77316,DISKOMINFO Kab. Enrekang,Sulawesi Selatan
+77317,DISKOMINFO Kab. Luwu,Sulawesi Selatan
+77318,DISKOMINFO Kab. Tana Toraja,Sulawesi Selatan
+77322,DISKOMINFO Kab. Luwu Utara,Sulawesi Selatan
+77324,DISKOMINFO Kab. Luwu Timur,Sulawesi Selatan
+77326,DISKOMINFO Kab. Toraja Utara,Sulawesi Selatan
+77371,DISKOMINFO Kota Makassar,Sulawesi Selatan
+77372,DISKOMINFO Kota Parepare,Sulawesi Selatan
+77373,DISKOMINFO Kota Palopo,Sulawesi Selatan
+774,DISKOMINFO PROV.  SULTRA,Sulawesi Tenggara
+77401,DISKOMINFO Kab. Kolaka,Sulawesi Tenggara
+77402,DISKOMINFO Kab. Konawe,Sulawesi Tenggara
+77403,DISKOMINFO Kab. Muna,Sulawesi Tenggara
+77404,DISKOMINFO Kab. Buton,Sulawesi Tenggara
+77405,DISKOMINFO Kab. Konawe Selatan,Sulawesi Tenggara
+77406,DISKOMINFO Kab. Bombana,Sulawesi Tenggara
+77407,DISKOMINFO Kab. Wakatobi,Sulawesi Tenggara
+77408,DISKOMINFO Kab. Kolaka Utara,Sulawesi Tenggara
+77409,DISKOMINFO Kab. Konawe Utara,Sulawesi Tenggara
+77410,DISKOMINFO Kab. Buton Utara,Sulawesi Tenggara
+77411,DISKOMINFO Kab. Kolaka Timur,Sulawesi Tenggara
+77412,DISKOMINFO Kab. Konawe Kepulauan,Sulawesi Tenggara
+77413,DISKOMINFO Kab. Muna Barat,Sulawesi Tenggara
+77414,DISKOMINFO Kab. Buton Tengah,Sulawesi Tenggara
+77415,DISKOMINFO Kab. Buton Selatan,Sulawesi Tenggara
+77471,DISKOMINFO Kota Kendari,Sulawesi Tenggara
+77472,DISKOMINFO Kota Baubau,Sulawesi Tenggara
+775,DISKOMINFO PROV.  GORONTALO,Gorontalo
+77501,DISKOMINFO Kab. Gorontalo,Gorontalo
+77502,DISKOMINFO Kab. Boalemo,Gorontalo
+77503,DISKOMINFO Kab. Bone Bolango,Gorontalo
+77504,DISKOMINFO Kab. Pahuwato,Gorontalo
+77505,DISKOMINFO Kab. Gorontalo Utara,Gorontalo
+77571,DISKOMINFO Kota Gorontalo,Gorontalo
+776,DISKOMINFO PROV.  SULBAR,Sulawesi Barat
+77601,DISKOMINFO Kab. Pasangkayu,Sulawesi Barat
+77602,DISKOMINFO Kab. Mamuju,Sulawesi Barat
+77603,DISKOMINFO Kab. Mamasa,Sulawesi Barat
+77604,DISKOMINFO Kab. Poliwali Mandar,Sulawesi Barat
+77605,DISKOMINFO Kab. Majene,Sulawesi Barat
+77606,DISKOMINFO Kab. Mamuju Tengah,Sulawesi Barat
+781,DISKOMINFO PROV.  MALUKU,Maluku
+78101,DISKOMINFO Kab. Maluku Tengah,Maluku
+78102,DISKOMINFO Kab. Maluku Tenggara,Maluku
+78103,DISKOMINFO Kab. Maluku Tenggara Barat,Maluku
+78104,DISKOMINFO Kab. Buru,Maluku
+78105,DISKOMINFO Kab. Seram Bagian Timur,Maluku
+78106,DISKOMINFO Kab. Seram Bagian Barat,Maluku
+78107,DISKOMINFO Kab. Kepulauan Aru,Maluku
+78108,DISKOMINFO Kab. Maluku Barat Daya,Maluku
+78109,DISKOMINFO Kab. Buru Selatan,Maluku
+78171,DISKOMINFO Kota Ambon,Maluku
+78172,DISKOMINFO Kota Tual,Maluku
+782,DISKOMINFO PROV.  MALUT,Maluku Utara
+78201,DISKOMINFO Kab. Halmahera Barat,Maluku Utara
+78202,DISKOMINFO Kab. Halmahera Tengah,Maluku Utara
+78203,DISKOMINFO Kab. Halmahera Utara,Maluku Utara
+78204,DISKOMINFO Kab. Halmahera Selatan,Maluku Utara
+78205,DISKOMINFO Kab. Kepulauan Sula,Maluku Utara
+78206,DISKOMINFO Kab. Halmahera Timur,Maluku Utara
+78207,DISKOMINFO Kab. Pulau Morotai,Maluku Utara
+78208,DISKOMINFO Kab. Pulau Taliabu,Maluku Utara
+78271,DISKOMINFO Kota Ternate,Maluku Utara
+78272,DISKOMINFO Kota Tidore Kepulauan,Maluku Utara
+791,DISKOMINFO PROV.  PAPUA,Papua
+79101,DISKOMINFO Kab. Merauke,Papua
+79102,DISKOMINFO Kab. Jayawijaya,Papua
+79103,DISKOMINFO Kab. Jayapura,Papua
+79104,DISKOMINFO Kab. Nabire,Papua
+79105,DISKOMINFO Kab. Kepulauan Yapen,Papua
+79106,DISKOMINFO Kab. Biak Numfor,Papua
+79107,DISKOMINFO Kab. Puncak Jaya,Papua
+79108,DISKOMINFO Kab. Paniai,Papua
+79109,DISKOMINFO Kab. Mimika,Papua
+79110,DISKOMINFO Kab. Sarmi,Papua
+79111,DISKOMINFO Kab. Keerom,Papua
+79112,DISKOMINFO Kab. Pegunungan Bintang,Papua
+79113,DISKOMINFO Kab. Yahukimo,Papua
+79114,DISKOMINFO Kab. Tolikara,Papua
+79115,DISKOMINFO Kab. Waropen,Papua
+79116,DISKOMINFO Kab. Boven Digoel,Papua
+79117,DISKOMINFO Kab. Mappi,Papua
+79118,DISKOMINFO Kab. Asmat,Papua
+79119,DISKOMINFO Kab. Supiori,Papua
+79120,DISKOMINFO Kab. Mamberamo Raya,Papua
+79121,DISKOMINFO Kab. Mamberamo Tengah,Papua
+79122,DISKOMINFO Kab. Yalimo,Papua
+79123,DISKOMINFO Kab. Lanny Jaya,Papua
+79124,DISKOMINFO Kab. Nduga,Papua
+79125,DISKOMINFO Kab. Puncak,Papua
+79126,DISKOMINFO Kab. Dogiyai,Papua
+79127,DISKOMINFO Kab. Intan Jaya,Papua
+79128,DISKOMINFO Kab. Deiyai,Papua
+79171,DISKOMINFO Kota Jayapura,Papua
+792,DISKOMINFO PROV.  PAPBAR,Papua Barat
+79201,DISKOMINFO Kab. Sorong,Papua Barat
+79202,DISKOMINFO Kab. Manokwari,Papua Barat
+79203,DISKOMINFO Kab. Fakfak,Papua Barat
+79204,DISKOMINFO Kab. Sorong Selatan,Papua Barat
+79205,DISKOMINFO Kab. Raja Ampat,Papua Barat
+79206,DISKOMINFO Kab. Teluk Bintuni,Papua Barat
+79207,DISKOMINFO Kab. Teluk Wondama,Papua Barat
+79208,DISKOMINFO Kab. Kaimana,Papua Barat
+79209,DISKOMINFO Kab. Tambrauw,Papua Barat
+79210,DISKOMINFO Kab. Maybrat,Papua Barat
+79211,DISKOMINFO Kab. Manokwari Selatan,Papua Barat
+79212,DISKOMINFO Kab. Pegunungan Arfak,Papua Barat
+79271,DISKOMINFO Kota Sorong,Papua Barat
