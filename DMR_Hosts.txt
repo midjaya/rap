@@ -1,28 +1,18 @@
-#	DMR_Hosts.txt
+#	RIAU_Hosts.txt
 #
-#	Ditulis untuk Pi-Star Digital Voice Node oleh Raden (YC5NCB/JZ04MIB)
-#	Ide dari Adrian Craig (M0GLJ)
+#	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
+#	Adapted to Riau by Hemi (YC5NCB)
 #
-#	Updated 09-Jul-2022
+#	Updated 1-Feb-2024
 #
-#	The format file ini harus mengikuti aturan menggunakan TAB
-#	IP address / Hotname / Password. TIDAK ADA SPASI!!
+#	The format of this file is the name of the reflector followed by its
+#	IP address / Hotname / Password. NO SPACES!!
 #
-#	Diunduh dari https://raw.githubusercontent.com/midjaya/rap/main/DMR_Hosts.txt
-#
-######################################################################################################
-#
-#				DMRGateway / Internal Hosts Below
+#	Downloaded from http://www.pistar.uk/downloads/RIAU_Hosts.txt
 #
 ######################################################################################################
-# Name				DMR-ID	IP/Hostname				Password	Port #
-######################################################################################################
-DMRGateway			0000	127.0.0.1				none		62031
-DMR2YSF				0000	127.0.0.2				none		62033
-DMR2NXDN			0000	127.0.0.3				none		62035
-######################################################################################################
 #
-#				BrandMeister Hosts Biasanya di Indonesia hanya 2 saja sebagai berikut
+#				BrandMeister Hosts Below
 #
 ######################################################################################################
 # Country			DMR-ID	IP/Hostname				Password	Port #
@@ -31,12 +21,11 @@ BM_5021_Malaysia		5021	5021.master.brandmeister.network	passw0rd	62031
 BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
 #
-#				HBLink/FreeDMR Radio Antar Penduduk Indonesia ID Hosts sebagai berikut
+#				HBLink Indonesia ID Hosts Below
 #
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
-HB_DMRID1 		        0000	103.187.147.208				passw0rd	62030
-HB_DMRID2 		        0000	103.172.204.165				passw0rd	62031
-HB_PLW001 		        0000	158.67.217.55				  passw0rd	62030
+HB_ID_RIAU_KRAP       	0000	dmrid.org	passw0rd	62036
+HB_ID_RIAU_ORARI	0000	dmrid.org	passw0rd	62037
 ######################################################################################################
